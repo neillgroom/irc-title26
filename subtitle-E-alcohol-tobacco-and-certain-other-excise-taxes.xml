@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stE">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="E">Subtitle E—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Alcohol, Tobacco, and Certain Other Excise Taxes</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="threeColumnTOC" id="id567eb769-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I580470" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+<column />
+<column style="-uslm-lc:I580429" class="tocHeaderRight">Sec.<ref class="footnoteRef" idref="fn002253">1</ref><note type="footnote" id="fn002253"><num>1</num> Section numbers editorially supplied.</note></column></header>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stE/ch51">51.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Distilled spirits, wines, and beer</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5001">5001</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stE/ch52">52.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Tobacco products and cigarette papers and tubes</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5701">5701</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stE/ch53">53.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Machine guns and certain other firearms <ref class="footnoteRef" idref="fn002255">2</ref><note type="footnote" id="fn002255"><num>2</num> Chapter heading amended by <ref href="/us/pl/90/618">Pub. L. 90–618</ref> without corresponding amendment of analysis.</note></column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5801">5801</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stE/ch54">54.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Greenmail</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5881">5881</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stE/ch55">55.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Structured settlement factoring transactions</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5891">5891</ref></column></tocItem>
+</layout>
+</toc>
+
+<notes xmlns="http://xml.house.gov/schemas/uslm/1.0" type="uscNote" id="id567eb76a-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id567eb76b-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id567eb76c-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">2002—<ref href="/us/pl/107/134/tI/s115/b">Pub. L. 107–134, title I, § 115(b)</ref>, <date date="2002-01-23">Jan. 23, 2002</date>, <ref href="/us/stat/115/2438">115 Stat. 2438</ref>, added item relating to chapter 55.</p>
+<p style="-uslm-lc:I21" class="indent0">1997—<ref href="/us/pl/105/33/tIX/s9302/g/3/D">Pub. L. 105–33, title IX, § 9302(g)(3)(D)</ref>, <date date="1997-08-05">Aug. 5, 1997</date>, <ref href="/us/stat/111/673">111 Stat. 673</ref>, added item relating to chapter 52 and struck out former item relating to chapter 52 “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes”.</p>
+<p style="-uslm-lc:I21" class="indent0">1988—<ref href="/us/pl/100/647/tV/s5061/c/4">Pub. L. 100–647, title V, § 5061(c)(4)</ref>, <date date="1988-11-10">Nov. 10, 1988</date>, <ref href="/us/stat/102/3680">102 Stat. 3680</ref>, substituted “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes” for “Tobacco, cigars, cigarettes, smokeless tobacco, and cigarette papers and tubes” in item relating to chapter 52.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/100/647/tI/s1018/u/16">Pub. L. 100–647, title I, § 1018(u)(16)</ref>, <date date="1988-11-10">Nov. 10, 1988</date>, <ref href="/us/stat/102/3590">102 Stat. 3590</ref>, inserted “smokeless tobacco,” after “cigarettes,” in item relating to chapter 52.</p>
+<p style="-uslm-lc:I21" class="indent0">1987—<ref href="/us/pl/100/203/tX/s10228/c">Pub. L. 100–203, title X, § 10228(c)</ref>, <date date="1987-12-22">Dec. 22, 1987</date>, <ref href="/us/stat/101/1330-418">101 Stat. 1330–418</ref>, added item relating to chapter 54.</p>
+</note>
+</notes>
+
+</subtitle-info>

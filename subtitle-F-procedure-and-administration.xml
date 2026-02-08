@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stF">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="F">Subtitle F—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Procedure and Administration</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="threeColumnTOC" id="id56a727a0-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I580470" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+<column />
+<column style="-uslm-lc:I580429" class="tocHeaderRight">Sec.<ref class="footnoteRef" idref="fn002274">1</ref><note type="footnote" id="fn002274"><num>1</num> Section numbers editorially supplied.</note></column></header>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch61">61.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Information and returns</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6001">6001</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch62">62.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Time and place for paying tax</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6151">6151</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch63">63.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Assessment</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6201">6201</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch64">64.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Collection</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6301">6301</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch65">65.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Abatements, credits, and refunds</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6401">6401</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch66">66.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Limitations</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6501">6501</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch67">67.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Interest</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6601">6601</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch68">68.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Additions to the tax, additional amounts, and assessable penalties</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6651">6651</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch69">69.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">General provisions relating to stamps</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6801">6801</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch70">70.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Jeopardy, receiverships, etc.</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6851">6851</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch71">71.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Transferees and fiduciaries</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s6901">6901</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch72">72.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Licensing and registration</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7001">7001</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch73">73.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Bonds</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7101">7101</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch74">74.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Closing agreements and compromises</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7121">7121</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch75">75.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Crimes, other offenses, and forfeitures</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7201">7201</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch76">76.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Judicial proceedings</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7401">7401</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch77">77.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Miscellaneous provisions</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7501">7501</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch78">78.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Discovery of liability and enforcement of title</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7601">7601</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch79">79.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Definitions</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7701">7701</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stF/ch80">80.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">General Rules</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s7801">7801</ref></column></tocItem>
+</layout>
+</toc>
+
+<notes xmlns="http://xml.house.gov/schemas/uslm/1.0" type="uscNote" id="id56a997a1-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56a997a2-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56a997a3-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1980—<ref href="/us/pl/96/589/s6/g/3/E">Pub. L. 96–589, § 6(g)(3)(E)</ref>, <date date="1980-12-24">Dec. 24, 1980</date>, <ref href="/us/stat/94/3410">94 Stat. 3410</ref>, substituted “Jeopardy, receiverships, etc.” for “Jeopardy, bankruptcy and receiverships” in item for chapter 70.</p>
+</note>
+</notes>
+
+</subtitle-info>

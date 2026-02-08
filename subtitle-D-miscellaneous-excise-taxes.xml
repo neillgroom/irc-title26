@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stD">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="D">Subtitle D—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Miscellaneous Excise Taxes</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="threeColumnTOC" id="id56326c35-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I580470" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+<column />
+<column style="-uslm-lc:I580429" class="tocHeaderRight">Sec.<ref class="footnoteRef" idref="fn002219">1</ref><note type="footnote" id="fn002219"><num>1</num> Section numbers editorially supplied.</note></column></header>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch31">31.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Retail excise taxes</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4001">4001</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch32">32.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Manufacturers excise taxes</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4061">4061</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch33">33.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Facilities and services</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4231">4231</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch34">34.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Taxes on certain insurance policies</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4371">4371</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch35">35.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Taxes on wagering</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4401">4401</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch36">36.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Certain other excise taxes</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4451">4451</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch37">37.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Repurchase of corporate stock</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4501">4501</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch38">38.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Environmental taxes</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4611">4611</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch39">39.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Registration-required obligations</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4701">4701</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch40">40.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">General provisions relating to occupational taxes</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4901">4901</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch41">41.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Public charities</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4911">4911</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch42">42.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Private foundations; and certain other tax-exempt organizations</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4940">4940</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch43">43.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Qualified pension, etc., plans</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4971">4971</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch44">44.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Real estate investment trusts <ref class="footnoteRef" idref="fn002221">2</ref><note type="footnote" id="fn002221"><num>2</num> Chapter heading amended by <ref href="/us/pl/99/514">Pub. L. 99–514</ref> without corresponding amendment of subtitle analysis.</note></column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4981">4981</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch45">45.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Provisions relating to expatriated entities</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4985">4985</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch46">46.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Golden parachute payments</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s4999">4999</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch47">47.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Certain group health plans</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5000">5000</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch48">48.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Maintenance of minimum essential coverage</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5000A">5000A</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch49">49.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Cosmetic services</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5000B">5000B</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch50">50.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Foreign procurement</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5000C">5000C</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stD/ch50A">50A.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Designated drugs</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s5000D">5000D</ref></column></tocItem>
+</layout>
+</toc>
+
+<notes xmlns="http://xml.house.gov/schemas/uslm/1.0" xmlns:html="http://www.w3.org/1999/xhtml" type="uscNote" id="id56326c36-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326c37-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326c38-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">2022—<ref href="/us/pl/117/169/tI">Pub. L. 117–169, title I</ref>, §§ 10201(c), 11003(c), <date date="2022-08-16">Aug. 16, 2022</date>, <ref href="/us/stat/136/1831">136 Stat. 1831</ref>, 1864, added items for chapters 37 and 50A.</p>
+<p style="-uslm-lc:I21" class="indent0">2011—<ref href="/us/pl/111/347/tIII/s301/a/2">Pub. L. 111–347, title III, § 301(a)(2)</ref>, <date date="2011-01-02">Jan. 2, 2011</date>, <ref href="/us/stat/124/3666">124 Stat. 3666</ref>, added item for chapter 50.</p>
+<p style="-uslm-lc:I21" class="indent0">2010—<ref href="/us/pl/111/148/tX/s10907/c">Pub. L. 111–148, title X, § 10907(c)</ref>, <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/1020">124 Stat. 1020</ref>, added item for chapter 49.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/111/148/tIX/s9017/b">Pub. L. 111–148, title IX, § 9017(b)</ref>, <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/872">124 Stat. 872</ref>, which directed amendment of analysis by adding item for chapter 49, was not executed in view of <ref href="/us/pl/111/148/tX/s10907/a">Pub. L. 111–148, title X, § 10907(a)</ref>, <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/1020">124 Stat. 1020</ref>, which provided that the amendments made by <ref href="/us/pl/111/148/s9017">section 9017 of Pub. L. 111–148</ref> were deemed null, void, and of no effect.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/111/148/tI/s1501/c">Pub. L. 111–148, title I, § 1501(c)</ref>, title VI, § 6301(e)(2)(B)(ii), <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/249">124 Stat. 249</ref>, 747, added items for chapters 34 and 48 and struck out former item for chapter 34 “Documentary stamp taxes”.</p>
+<p style="-uslm-lc:I21" class="indent0">2004—<ref href="/us/pl/108/357/tVIII/s802/c/2">Pub. L. 108–357, title VIII, § 802(c)(2)</ref>, <date date="2004-10-22">Oct. 22, 2004</date>, <ref href="/us/stat/118/1568">118 Stat. 1568</ref>, added item for chapter 45.</p>
+<p style="-uslm-lc:I21" class="indent0">1990—<ref href="/us/pl/101/508/tXI/s11801/b/17">Pub. L. 101–508, title XI, § 11801(b)(17)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref href="/us/stat/104/1388-522">104 Stat. 1388–522</ref>, struck out item for chapter 37 “Sugar, coconut and palm oil”.</p>
+<p style="-uslm-lc:I21" class="indent0">1989—<ref href="/us/pl/101/239/tVI/s6202/b/4/B">Pub. L. 101–239, title VI, § 6202(b)(4)(B)</ref>, title VII, § 7841(d)(4), <date date="1989-12-19">Dec. 19, 1989</date>, <ref href="/us/stat/103/2233">103 Stat. 2233</ref>, 2428, substituted semicolon for comma in item for chapter 42 and struck out “large” after “Certain” in item for chapter 47.</p>
+<p style="-uslm-lc:I21" class="indent0">1988—<ref href="/us/pl/100/418/tI/s1941/b/3/A">Pub. L. 100–418, title I, § 1941(b)(3)(A)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref href="/us/stat/102/1324">102 Stat. 1324</ref>, struck out item for chapter 45 “Windfall profit tax on domestic crude oil”.</p>
+<p style="-uslm-lc:I21" class="indent0">1987—<ref href="/us/pl/100/203/tX/s10712/c/8">Pub. L. 100–203, title X, § 10712(c)(8)</ref>, <date date="1987-12-22">Dec. 22, 1987</date>, <ref href="/us/stat/101/1330-467">101 Stat. 1330–467</ref>, substituted “and certain other tax-exempt organizations” for “black lung benefit trusts” in item for chapter 42.</p>
+<p style="-uslm-lc:I21" class="indent0">1986—<ref href="/us/pl/99/509/tIX/s9319/d/2">Pub. L. 99–509, title IX, § 9319(d)(2)</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref href="/us/stat/100/2012">100 Stat. 2012</ref>, added item for chapter 47.</p>
+<p style="-uslm-lc:I21" class="indent0">1984—<ref href="/us/pl/98/369/dA/tI/s67/d/2">Pub. L. 98–369, div. A, title I, § 67(d)(2)</ref>, <date date="1984-07-18">July 18, 1984</date>, <ref href="/us/stat/98/587">98 Stat. 587</ref>, added item for chapter 46.</p>
+<p style="-uslm-lc:I21" class="indent0">1983—<ref href="/us/pl/97/424/tV/s512/b/2/B">Pub. L. 97–424, title V, § 512(b)(2)(B)</ref>, <date date="1983-01-06">Jan. 6, 1983</date>, <ref href="/us/stat/96/2177">96 Stat. 2177</ref>, substituted “Retail excise taxes” for “Special fuels” in item for chapter 31.</p>
+<p style="-uslm-lc:I21" class="indent0">1982—<ref href="/us/pl/97/248/tIII/s310/b/4/B">Pub. L. 97–248, title III, § 310(b)(4)(B)</ref>, <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/598">96 Stat. 598</ref>, added item for chapter 39.</p>
+<p style="-uslm-lc:I21" class="indent0">1980—<ref href="/us/pl/96/510/tII/s211/b">Pub. L. 96–510, title II, § 211(b)</ref>, <date date="1980-12-11">Dec. 11, 1980</date>, <ref href="/us/stat/94/2801">94 Stat. 2801</ref>, added item for chapter 38.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/96/223/s101/a/2">Pub. L. 96–223, § 101(a)(2)</ref>, <date date="1980-04-02">Apr. 2, 1980</date>, <ref href="/us/stat/94/250">94 Stat. 250</ref>, added item for chapter 45.</p>
+<p style="-uslm-lc:I21" class="indent0">1978—<ref href="/us/pl/95/227/s4/c/2/C">Pub. L. 95–227, § 4(c)(2)(C)</ref>, <date date="1978-02-10">Feb. 10, 1978</date>, <ref href="/us/stat/92/22">92 Stat. 22</ref>, inserted “, black lung benefit trusts” after “foundations” in item for chapter 42.</p>
+<p style="-uslm-lc:I21" class="indent0">1976—<ref href="/us/pl/94/455/tXIII/s1307/d/3/A">Pub. L. 94–455, title XIII, § 1307(d)(3)(A)</ref>, title XVI, § 1605(c), title XIX, §§ 1904(b)(7)(E), (10)(G), 1952(n)(6), <date date="1976-10-04">Oct. 4, 1976</date>, <ref href="/us/stat/90/1728">90 Stat. 1728</ref>, 1755, 1815, 1818, 1846, substituted “41. Public charities” for “41. Interest equalization tax” added item for chapter 44 and struck out items for chapters “38. Import taxes” and “39. Regulatory taxes”.</p>
+<p style="-uslm-lc:I21" class="indent0">1974—<ref href="/us/pl/93/406/tII/s1016/b/2">Pub. L. 93–406, title II, § 1016(b)(2)</ref>, <date date="1974-09-02">Sept. 2, 1974</date>, <ref href="/us/stat/88/932">88 Stat. 932</ref>, added item for chapter 43.</p>
+<p style="-uslm-lc:I21" class="indent0">1969—<ref href="/us/pl/91/172/tI/s101/j/59">Pub. L. 91–172, title I, § 101(j)(59)</ref>, <date date="1969-12-30">Dec. 30, 1969</date>, <ref href="/us/stat/83/532">83 Stat. 532</ref>, added item for chapter 42.</p>
+<p style="-uslm-lc:I21" class="indent0">1964—<ref href="/us/pl/88/563/s2/b">Pub. L. 88–563, § 2(b)</ref>, <date date="1964-09-02">Sept. 2, 1964</date>, <ref href="/us/stat/78/841">78 Stat. 841</ref>, added item for chapter 41.</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id5634b529-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="miscellaneous" id="id5634b52a-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Imposition of Annual Fee on Branded Prescription Pharmaceutical Manufacturers and Importers</heading><p><ref href="/us/pl/111/148/tIX/s9008">Pub. L. 111–148, title IX, § 9008</ref>, <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/859">124 Stat. 859</ref>, as amended by <ref href="/us/pl/111/152/tI/s1404/a">Pub. L. 111–152, title I, § 1404(a)</ref>, <date date="2010-03-30">Mar. 30, 2010</date>, <ref href="/us/stat/124/1064">124 Stat. 1064</ref>, provided that:<quotedContent origin="/us/pl/111/152/tI/s1404/a">
+<subsection style="-uslm-lc:I21" class="indent0"><num value="a">“(a)</num><heading> <inline class="small-caps">Imposition of Fee.—</inline></heading><paragraph style="-uslm-lc:I22" class="indent1"><num value="1">“(1)</num><heading> <inline class="small-caps">In general</inline>.—</heading><content>Each covered entity engaged in the business of manufacturing or importing branded prescription drugs shall pay to the Secretary of the Treasury not later than the annual payment date of each calendar year beginning after 2010 a fee in an amount determined under subsection (b).</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="2">“(2)</num><heading> <inline class="small-caps">Annual payment date</inline>.—</heading><content>For purposes of this section, the term ‘annual payment date’ means with respect to any calendar year the date determined by the Secretary, but in no event later than September 30 of such calendar year.</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="b">“(b)</num><heading> <inline class="small-caps">Determination of Fee Amount.—</inline></heading><paragraph style="-uslm-lc:I22" class="indent1"><num value="1">“(1)</num><heading> <inline class="small-caps">In general</inline>.—</heading><chapeau>With respect to each covered entity, the fee under this section for any calendar year shall be equal to an amount that bears the same ratio to the applicable amount as—</chapeau><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><content> the covered entity’s branded prescription drug sales taken into account during the preceding calendar year, bear to</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><content> the aggregate branded prescription drug sales of all covered entities taken into account during such preceding calendar year.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="2">“(2)</num><heading> <inline class="small-caps">Sales taken into account</inline>.—</heading><content>For purposes of paragraph (1), the branded prescription drug sales taken into account during any calendar year with respect to any covered entity shall be determined in accordance with the following table:<html:table class="Quoted" width="50%" style="border-collapse:collapse; border=0;  -uslm-lc: c2,L0,tp0,p7,7/8,s130n,xls55n,tp0,p7,7/8,s130n,xls55n; " id="id5634b52b-efb1-11f0-81a7-eb72860d333c">
+<html:colgroup>
+<html:col style="min-width: 147pt;" />
+<html:col style="width:59pt ; max-width:59pt;" />
+</html:colgroup>
+<html:thead>
+<html:tr class="header" style="font-size:7pt;-uslm-lc:h1;">
+<html:th style="min-width: 147.0pt; text-align:center; vertical-align:middle;"><html:p style=" text-align:center;">“With respect to a covered entity’s aggregate branded prescription drug sales during the calendar year that are:</html:p></html:th><html:th style="width:59.0pt ; max-width:59.0pt; text-align:center; vertical-align:middle;"><html:p style=" text-align:center;">The percentage of such sales taken into account is:</html:p></html:th></html:tr>
+</html:thead>
+<html:tbody style="line-height:8pt; font-size:7pt;">
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>Not more than $5,000,000</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">0 percent</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;">More than $5,000,000 but not more than $125,000,000</html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">10 percent</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;">More than $125,000,000 but not more than $225,000,000</html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">40 percent</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;">More than $225,000,000 but not more than $400,000,000</html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">75 percent</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>More than $400,000,000</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">100 percent.</html:p></html:td></html:tr>
+</html:tbody>
+</html:table>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="3">“(3)</num><heading> <inline class="small-caps">Secretarial determination</inline>.—</heading><content>The Secretary of the Treasury shall calculate the amount of each covered entity’s fee for any calendar year under paragraph (1). In calculating such amount, the Secretary of the Treasury shall determine such covered entity’s branded prescription drug sales on the basis of reports submitted under subsection (g) and through the use of any other source of information available to the Secretary of the Treasury.</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="4">“(4)</num><heading> <inline class="small-caps">Applicable amount</inline>.—</heading><content>For purposes of paragraph (1), the applicable amount shall be determined in accordance with the following table:<html:table width="50%" style="border-collapse:collapse; border=0;  -uslm-lc: c2,L0,tp0,p0,7/8,s130n,xls55n,tp0,p0,7/8,s130n,xls55n; " id="id5634b52c-efb1-11f0-81a7-eb72860d333c">
+<html:colgroup>
+<html:col style="min-width: 147pt;" />
+<html:col style="width:59pt ; max-width:59pt;" />
+</html:colgroup>
+<html:thead>
+<html:tr class="header" style="font-size:0pt;-uslm-lc:h1;">
+<html:td />
+</html:tr>
+</html:thead>
+<html:tbody style="line-height:8pt; font-size:7pt;">
+<html:tr style="-uslm-lc:I01;"><html:td style="min-width: 147.0pt; text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:1em;"><html:b>“Calendar year </html:b></html:p></html:td><html:td style="width:59.0pt ; max-width:59.0pt; text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;"><html:b>Applicable amount</html:b></html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2011</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$2,500,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2012</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$2,800,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2013</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$2,800,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2014</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$3,000,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2015</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$3,000,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2016</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$3,000,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2017</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$4,000,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2018</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$4,100,000,000</html:p></html:td></html:tr>
+<html:tr style="-uslm-lc:I02;"><html:td style=" text-align:justify; vertical-align:top; padding-right:2pt;"><html:p style=" text-align:justify; text-indent: -1em; padding-left:3em;" class="leaders"><html:span>2019 and thereafter</html:span></html:p></html:td><html:td style=" text-align:left; vertical-align:top; padding-left: 2pt;"><html:p style=" text-align:left; text-indent: -1em; padding-left:1em;">$2,800,000,000.</html:p></html:td></html:tr>
+</html:tbody>
+</html:table>
+</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="c">“(c)</num><heading> <inline class="small-caps">Transfer of Fees to Medicare Part B Trust Fund</inline>.—</heading><content>There is hereby appropriated to the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Social Security Act [<ref href="/us/usc/t42/s1395t">42 U.S.C. 1395t</ref>] an amount equal to the fees received by the Secretary of the Treasury under subsection (a).</content>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="d">“(d)</num><heading> <inline class="small-caps">Covered Entity.—</inline></heading><paragraph style="-uslm-lc:I22" class="indent1"><num value="1">“(1)</num><heading> <inline class="small-caps">In general</inline>.—</heading><content>For purposes of this section, the term ‘covered entity’ means any manufacturer or importer with gross receipts from branded prescription drug sales.</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="2">“(2)</num><heading> <inline class="small-caps">Controlled groups.—</inline></heading><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><heading> <inline class="small-caps">In general</inline>.—</heading><content>For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (<i>o</i>) of section 414 of such Code shall be treated as a single covered entity.</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><heading> <inline class="small-caps">Inclusion of foreign corporations</inline>.—</heading><content>For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 of such Code to this section, section 1563 of such Code shall be applied without regard to subsection (b)(2)(C) thereof.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="3">“(3)</num><heading> <inline class="small-caps">Joint and several liability</inline>.—</heading><content>If more than one person is liable for payment of the fee under subsection (a) with respect to a single covered entity by reason of the application of paragraph (2), all such persons shall be jointly and severally liable for payment of such fee.</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="e">“(e)</num><heading> <inline class="small-caps">Branded Prescription Drug Sales</inline>.—</heading><chapeau>For purposes of this section—</chapeau><paragraph style="-uslm-lc:I22" class="indent1"><num value="1">“(1)</num><heading> <inline class="small-caps">In general</inline>.—</heading><content>The term ‘branded prescription drug sales’ means sales of branded prescription drugs to any specified government program or pursuant to coverage under any such program.</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="2">“(2)</num><heading> <inline class="small-caps">Branded prescription drugs.—</inline></heading><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><heading> <inline class="small-caps">In general</inline>.—</heading><chapeau>The term ‘branded prescription drug’ means—</chapeau><clause style="-uslm-lc:I24" class="indent3"><num value="i">“(i)</num><content> any prescription drug the application for which was submitted under section 505(b) of the Federal Food, Drug, and Cosmetic Act (<ref href="/us/usc/t21/s355/b">21 U.S.C. 355(b)</ref>), or</content>
+</clause>
+<clause style="-uslm-lc:I24" class="indent3"><num value="ii">“(ii)</num><content> any biological product the license for which was submitted under section 351(a) of the Public Health Service Act (<ref href="/us/usc/t42/s262/a">42 U.S.C. 262(a)</ref>).</content>
+</clause>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><heading> <inline class="small-caps">Prescription drug</inline>.—</heading><content>For purposes of subparagraph (A)(i), the term ‘prescription drug’ means any drug which is subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act (<ref href="/us/usc/t21/s353/b">21 U.S.C. 353(b)</ref>).</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="3">“(3)</num><heading> <inline class="small-caps">Exclusion of orphan drug sales</inline>.—</heading><content>The term ‘branded prescription drug sales’ shall not include sales of any drug or biological product with respect to which a credit was allowed for any taxable year under section 45C of the Internal Revenue Code of 1986. The preceding sentence shall not apply with respect to any such drug or biological product after the date on which such drug or biological product is approved by the Food and Drug Administration for marketing for any indication other than the treatment of the rare disease or condition with respect to which such credit was allowed.</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="4">“(4)</num><heading> <inline class="small-caps">Specified government program</inline>.—</heading><chapeau>The term ‘specified government program’ means—</chapeau><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><content> the Medicare Part D program under part D of title XVIII of the Social Security Act [<ref href="/us/usc/t42/s1395w–101">42 U.S.C. 1395w–101</ref> et seq.],</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><content> the Medicare Part B program under part B of title XVIII of the Social Security Act [<ref href="/us/usc/t42/s1395j">42 U.S.C. 1395j</ref> et seq.],</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="C">“(C)</num><content> the Medicaid program under title XIX of the Social Security Act [<ref href="/us/usc/t42/s1396">42 U.S.C. 1396</ref> et seq.],</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="D">“(D)</num><content> any program under which branded prescription drugs are procured by the Department of Veterans Affairs,</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="E">“(E)</num><content> any program under which branded prescription drugs are procured by the Department of Defense, or</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="F">“(F)</num><content> the TRICARE retail pharmacy program under <ref href="/us/usc/t10/s1074g">section 1074g of title 10</ref>, United States Code.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="f">“(f)</num><heading> <inline class="small-caps">Tax Treatment of Fees</inline>.—</heading><chapeau>The fees imposed by this section—</chapeau><paragraph style="-uslm-lc:I22" class="indent1"><num value="1">“(1)</num><content> for purposes of subtitle F of the Internal Revenue Code of 1986, shall be treated as excise taxes with respect to which only civil actions for refund under procedures of such subtitle shall apply, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="2">“(2)</num><content> for purposes of section 275 of such Code, shall be considered to be a tax described in section 275(a)(6).</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="g">“(g)</num><heading> <inline class="small-caps">Reporting Requirement</inline>.—</heading><chapeau>Not later than the date determined by the Secretary of the Treasury following the end of any calendar year, the Secretary of Health and Human Services, the Secretary of Veterans Affairs, and the Secretary of Defense shall report to the Secretary of the Treasury, in such manner as the Secretary of the Treasury prescribes, the total branded prescription drug sales for each covered entity with respect to each specified government program under such Secretary’s jurisdiction using the following methodology:</chapeau><paragraph style="-uslm-lc:I22" class="indent1"><num value="1">“(1)</num><heading> <inline class="small-caps">Medicare part d program</inline>.—</heading><chapeau>The Secretary of Health and Human Services shall report, for each covered entity and for each branded prescription drug of the covered entity covered by the Medicare Part D program, the product of—</chapeau><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><content> the per-unit ingredient cost, as reported to the Secretary of Health and Human Services by prescription drug plans and Medicare Advantage prescription drug plans, minus any per-unit rebate, discount, or other price concession provided by the covered entity, as reported to the Secretary of Health and Human Services by the prescription drug plans and Medicare Advantage prescription drug plans, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><content> the number of units of the branded prescription drug paid for under the Medicare Part D program.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="2">“(2)</num><heading> <inline class="small-caps">Medicare part b program</inline>.—</heading><chapeau>The Secretary of Health and Human Services shall report, for each covered entity and for each branded prescription drug of the covered entity covered by the Medicare Part B program under section 1862(a) of the Social Security Act [<ref href="/us/usc/t42/s1395y/a">42 U.S.C. 1395y(a)</ref>], the product of—</chapeau><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><content> the per-unit average sales price (as defined in section 1847A(c) of the Social Security Act [<ref href="/us/usc/t42/s1395w–3a/c">42 U.S.C. 1395w–3a(c)</ref>]) or the per-unit Part B payment rate for a separately paid branded prescription drug without a reported average sales price, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><content> the number of units of the branded prescription drug paid for under the Medicare Part B program.</content>
+</subparagraph>
+
+<continuation style="-uslm-lc:I31" class="indent1 firstIndent0">The Centers for Medicare and Medicaid Services shall establish a process for determining the units and the allocated price for purposes of this section for those branded prescription drugs that are not separately payable or for which National Drug Codes are not reported.</continuation>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="3">“(3)</num><heading> <inline class="small-caps">Medicaid program</inline>.—</heading><chapeau>The Secretary of Health and Human Services shall report, for each covered entity and for each branded prescription drug of the covered entity covered under the Medicaid program, the product of—</chapeau><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><content> the per-unit ingredient cost paid to pharmacies by States for the branded prescription drug dispensed to Medicaid beneficiaries, minus any per-unit rebate paid by the covered entity under section 1927 of the Social Security Act [<ref href="/us/usc/t42/s1396r–8">42 U.S.C. 1396r–8</ref>] and any State supplemental rebate, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><content> the number of units of the branded prescription drug paid for under the Medicaid program.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="4">“(4)</num><heading> <inline class="small-caps">Department of veterans affairs programs</inline>.—</heading><content>The Secretary of Veterans Affairs shall report, for each covered entity and for each branded prescription drug of the covered entity the total amount paid for each such branded prescription drug procured by the Department of Veterans Affairs for its beneficiaries.</content>
+</paragraph>
+<paragraph style="-uslm-lc:I22" class="indent1"><num value="5">“(5)</num><heading> <inline class="small-caps">Department of defense programs and tricare</inline>.—</heading><chapeau>The Secretary of Defense shall report, for each covered entity and for each branded prescription drug of the covered entity, the sum of—</chapeau><subparagraph style="-uslm-lc:I23" class="indent2"><num value="A">“(A)</num><content> the total amount paid for each such branded prescription drug procured by the Department of Defense for its beneficiaries, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I23" class="indent2"><num value="B">“(B)</num><chapeau> for each such branded prescription drug dispensed under the TRICARE retail pharmacy program, the product of—</chapeau><clause style="-uslm-lc:I24" class="indent3"><num value="i">“(i)</num><content> the per-unit ingredient cost, minus any per-unit rebate paid by the covered entity, and</content>
+</clause>
+<clause style="-uslm-lc:I24" class="indent3"><num value="ii">“(ii)</num><content> the number of units of the branded prescription drug dispensed under such program.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="h">“(h)</num><heading> <inline class="small-caps">Secretary</inline>.—</heading><content>For purposes of this section, the term ‘Secretary’ includes the Secretary’s delegate.</content>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="i">“(i)</num><heading> <inline class="small-caps">Guidance</inline>.—</heading><content>The Secretary of the Treasury shall publish guidance necessary to carry out the purposes of this section.</content>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="j">“(j)</num><heading> <inline class="small-caps">Effective Date</inline>.—</heading><content>This section shall apply to calendar years beginning after <date date="2010-12-31">December 31, 2010</date>.</content>
+</subsection>
+<subsection style="-uslm-lc:I21" class="indent0"><num value="k">“(k)</num><heading> <inline class="small-caps">Conforming Amendment</inline>.—</heading><note topic="miscellaneous" id="id5634b52d-efb1-11f0-81a7-eb72860d333c">
+<p>[Amended <ref href="/us/usc/t42/s1395t">section 1395t of Title 42</ref>, The Public Health and Welfare.]”</p></note>
+</subsection>
+</quotedContent>
+</p>
+<p>[<ref href="/us/pl/111/152/tI/s1404/b">Pub. L. 111–152, title I, § 1404(b)</ref>, <date date="2010-03-30">Mar. 30, 2010</date>, <ref href="/us/stat/124/1064">124 Stat. 1064</ref>, provided that: <quotedContent origin="/us/pl/111/152/tI/s1404/b">“The amendments made by this section [amending <ref href="/us/pl/111/148/s9008">section 9008 of Pub. L. 111–148</ref>, set out above] shall take effect as if included in section 9008 of the Patient Protection and Affordable Care Act [<ref href="/us/pl/111/148">Pub. L. 111–148</ref>].”</quotedContent>
+]</p>
+</note>
+<note style="-uslm-lc:I74" topic="miscellaneous" id="id5634b52e-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Imposition of Annual Fee on Medical Device Manufacturers and Importers</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/111/148/tIX/s9009">Pub. L. 111–148, title IX, § 9009</ref>, <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/862">124 Stat. 862</ref>, as amended by <ref href="/us/pl/111/148/tX/s10904/a">Pub. L. 111–148, title X, § 10904(a)</ref>, <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/1016">124 Stat. 1016</ref>, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by <ref href="/us/pl/111/152/tI/s1405/d">Pub. L. 111–152, title I, § 1405(d)</ref>, <date date="2010-03-30">Mar. 30, 2010</date>, <ref href="/us/stat/124/1065">124 Stat. 1065</ref>.</p>
+<p style="-uslm-lc:I21" class="indent0">[<ref href="/us/pl/111/152/tI/s1405/d">Pub. L. 111–152, title I, § 1405(d)</ref>, <date date="2010-03-30">Mar. 30, 2010</date>, <ref href="/us/stat/124/1065">124 Stat. 1065</ref>, provided that the repeal of <ref href="/us/pl/111/148/s9009">section 9009 of Pub. L. 111–148</ref>, formerly set out above, is effective as of <date date="2010-03-23">Mar. 23, 2010</date>.]</p>
+</note>
+<note style="-uslm-lc:I74" topic="miscellaneous" id="id5634b52f-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Imposition of Annual Fee on Health Insurance Providers</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/111/148/tIX/s9010">Pub. L. 111–148, title IX, § 9010</ref>, title X, § 10905(a)–(f), <date date="2010-03-23">Mar. 23, 2010</date>, <ref href="/us/stat/124/865">124 Stat. 865</ref>, 1017–1019, as amended by <ref href="/us/pl/111/152/tI/s1406/a">Pub. L. 111–152, title I, § 1406(a)</ref>, <date date="2010-03-30">Mar. 30, 2010</date>, <ref href="/us/stat/124/1065">124 Stat. 1065</ref>; <ref href="/us/pl/114/113/dP/tII/s201">Pub. L. 114–113, div. P, title II, § 201</ref>, <date date="2015-12-18">Dec. 18, 2015</date>, <ref href="/us/stat/129/3037">129 Stat. 3037</ref>; <ref href="/us/pl/115/120/dD/s4003/b">Pub. L. 115–120, div. D, § 4003(b)</ref>, <date date="2018-01-22">Jan. 22, 2018</date>, <ref href="/us/stat/132/38">132 Stat. 38</ref>, which imposed an annual fee on certain entities that provided health insurance for any United States health risk, was repealed by <ref href="/us/pl/116/94/dN/tI/s502/a">Pub. L. 116–94, div. N, title I, § 502(a)</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref href="/us/stat/133/3119">133 Stat. 3119</ref>.</p>
+<p style="-uslm-lc:I21" class="indent0">[<ref href="/us/pl/116/94/dN/tI/s502/b">Pub. L. 116–94, div. N, title I, § 502(b)</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref href="/us/stat/133/3119">133 Stat. 3119</ref>, provided that, “The amendment made by this section [repealing <ref href="/us/pl/111/148/s9010">section 9010 of Pub. L. 111–148</ref>, formerly set out above] shall apply to calendar years beginning after <date date="2020-12-31">December 31, 2020</date>.”]</p>
+</note>
+</notes>
+
+</subtitle-info>

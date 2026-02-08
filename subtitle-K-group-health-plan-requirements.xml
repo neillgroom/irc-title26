@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stK">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="K">Subtitle K—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Group Health Plan Requirements</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="threeColumnTOC" id="id57a8b7f2-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I580470" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+<column />
+<column style="-uslm-lc:I580429" class="tocHeaderRight">Sec.<ref class="footnoteRef" idref="fn002361">1</ref><note type="footnote" id="fn002361"><num>1</num> Section number editorially supplied.</note></column></header>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stK/ch100">100.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Group health plan requirements</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s9801">9801</ref></column></tocItem>
+</layout>
+</toc>
+
+<notes xmlns="http://xml.house.gov/schemas/uslm/1.0" type="uscNote" id="id57a8b7f3-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id57a8b7f4-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id57a8b7f5-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1997—<ref href="/us/pl/105/34/tXV/s1531/a/1">Pub. L. 105–34, title XV, § 1531(a)(1)</ref>, <date date="1997-08-05">Aug. 5, 1997</date>, <ref href="/us/stat/111/1080">111 Stat. 1080</ref>, struck out “Portability, Access, and Renewability” before “Requirements” in subtitle heading and made similar change in item for chapter 100.</p>
+</note>
+</notes>
+
+</subtitle-info>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stJ">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="J">Subtitle J—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Coal Industry Health Benefits</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="threeColumnTOC" id="id57a3fd64-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I580470" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+<column />
+<column style="-uslm-lc:I580429" class="tocHeaderRight">Sec.<ref class="footnoteRef" idref="fn002358">1</ref><note type="footnote" id="fn002358"><num>1</num> Section numbers editorially supplied.</note></column></header>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stJ/ch99">99.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Coal industry health benefits</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s9701">9701</ref></column></tocItem>
+</layout>
+</toc>
+
+</subtitle-info>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stG">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="G">Subtitle G—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">The Joint Committee on Taxation</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="threeColumnTOC" id="id5790ea5d-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I580470" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+<column />
+<column style="-uslm-lc:I580429" class="tocHeaderRight">Sec.<ref class="footnoteRef" idref="fn002349">1</ref><note type="footnote" id="fn002349"><num>1</num> Section numbers editorially supplied.</note></column></header>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stG/ch91">91.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Organization and membership of the Joint Committee</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s8001">8001</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stG/ch92">92.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Powers and duties of the Joint Committee</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s8021">8021</ref></column></tocItem>
+</layout>
+</toc>
+
+<notes xmlns="http://xml.house.gov/schemas/uslm/1.0" type="uscNote" id="id5790ea5e-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id5790ea5f-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id5790ea60-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1976—<ref href="/us/pl/94/455/tXIX/s1907/b/1">Pub. L. 94–455, title XIX, § 1907(b)(1)</ref>, <date date="1976-10-04">Oct. 4, 1976</date>, <ref href="/us/stat/90/1836">90 Stat. 1836</ref>, struck out “Internal Revenue” in heading of subtitle G.</p>
+</note>
+</notes>
+
+</subtitle-info>

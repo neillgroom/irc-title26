@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stC">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="C">Subtitle C—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Employment Taxes</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="threeColumnTOC" id="id55f933da-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I580470" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+<column />
+<column style="-uslm-lc:I580429" class="tocHeaderRight">Sec.<ref class="footnoteRef" idref="fn002203">1</ref><note type="footnote" id="fn002203"><num>1</num> Section numbers editorially supplied.</note></column></header>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stC/ch21">21.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Federal insurance contributions act</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s3101">3101</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stC/ch22">22.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Railroad retirement tax act</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s3201">3201</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stC/ch23">23.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Federal unemployment tax act</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s3301">3301</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stC/ch23A">23A.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Railroad Unemployment Repayment Tax</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s3321">3321</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stC/ch24">24.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">Collection of income tax at source on wages</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s3401">3401</ref></column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I580437" class="threeColumnLeft"><ref href="/us/usc/t26/stC/ch25">25.</ref></column><column style="-uslm-lc:I580438" class="threeColumnMiddle">General provisions relating to employment taxes</column><column style="-uslm-lc:I580439" class="threeColumnRight"><ref href="/us/usc/t26/s3501">3501</ref></column></tocItem>
+</layout>
+</toc>
+
+<notes xmlns="http://xml.house.gov/schemas/uslm/1.0" type="uscNote" id="id55f933db-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id55f933dc-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id55f933dd-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1983—<ref href="/us/pl/98/76/tII/s231/c">Pub. L. 98–76, title II, § 231(c)</ref>, <date date="1983-08-12">Aug. 12, 1983</date>, <ref href="/us/stat/97/429">97 Stat. 429</ref>, added item for chapter 23A.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/98/67">Pub. L. 98–67</ref> repealed amendments made by <ref href="/us/pl/97/248">Pub. L. 97–248</ref>. See 1982 Amendment note below.</p>
+<p style="-uslm-lc:I21" class="indent0">1982—<ref href="/us/pl/97/248/tIII">Pub. L. 97–248, title III</ref>, §§ 307(b)(1), (6), 308(a), <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/590">96 Stat. 590</ref>, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after <date date="1983-06-30">June 30, 1983</date>, the heading of subtitle C is amended to read “Employment Taxes and Collection of Income Tax at Source”, the caption of chapter 24 is amended by striking out “On Wages”, and the caption of chapter 25 is amended by inserting “And Collection Of Income Taxes At Source” after “Employment Taxes”. Section 102(a), (b) of <ref href="/us/pl/98/67/tI">Pub. L. 98–67, title I</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref href="/us/stat/97/369">97 Stat. 369</ref>, repealed subtitle A (§§ 301–308) of title III of <ref href="/us/pl/97/248">Pub. L. 97–248</ref> as of the close of <date date="1983-06-30">June 30, 1983</date>, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.</p>
+</note>
+</notes>
+
+</subtitle-info>

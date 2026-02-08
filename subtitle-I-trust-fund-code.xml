@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stI">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="I">Subtitle I—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Trust Fund Code</heading>
+
+<section xmlns="http://xml.house.gov/schemas/uslm/1.0" style="-uslm-lc:I80" id="id5795a553-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s9500"><num value="9500">§ 9500.</num><heading> Short title</heading><content>
+<p style="-uslm-lc:I11" class="indent0">This subtitle may be cited as the “Trust Fund Code of 1981”.</p>
+</content><sourceCredit id="id5795a554-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/97/119/tI/s103/a">Pub. L. 97–119, title I, § 103(a)</ref>, <date date="1981-12-29">Dec. 29, 1981</date>, <ref href="/us/stat/95/1636">95 Stat. 1636</ref>.)</sourceCredit>
+</section>
+
+</subtitle-info>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns="http://xml.house.gov/schemas/uslm/1.0" style="-uslm-lc:I81" id="id56326b71-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/stC/ch25"><num value="25">CHAPTER 25—</num><heading>GENERAL PROVISIONS RELATING TO EMPLOYMENT TAXES</heading>
+<toc role="twoColumnTOC" id="id56326b72-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I70" role="tocColumnHeader">
+<column class="tocHeaderLeft">Sec.</column>
+</header>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3501">3501.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Collection and payment of taxes.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3502">3502.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Nondeductibility of taxes in computing taxable income.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3503">3503.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Erroneous payments.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3504">3504.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Acts to be performed by agents.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3505">3505.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Liability of third parties paying or providing for wages.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3506">3506.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Individuals providing companion sitting placement services.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">[<ref href="/us/usc/t26/s3507">3507.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Repealed.]</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3508">3508.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Treatment of real estate agents and direct sellers.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3509">3509.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Determination of employer’s liability for certain employment taxes.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3510">3510.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Coordination of collection of domestic service employment taxes with collection of income taxes.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3511">3511.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Certified professional employer organizations.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/s3512">3512.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Treatment of certain persons as employers with respect to motion picture projects.</column>
+</tocItem>
+</layout>
+</toc>
+<notes type="uscNote" id="id56326b73-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326b74-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326b75-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">2015—<ref href="/us/pl/114/113/dQ/tIII/s346/b">Pub. L. 114–113, div. Q, title III, § 346(b)</ref>, <date date="2015-12-18">Dec. 18, 2015</date>, <ref href="/us/stat/129/3116">129 Stat. 3116</ref>, added item 3512.</p>
+<p style="-uslm-lc:I21" class="indent0">2014—<ref href="/us/pl/113/295/dB/tII/s206/d/1">Pub. L. 113–295, div. B, title II, § 206(d)(1)</ref>, <date date="2014-12-19">Dec. 19, 2014</date>, <ref href="/us/stat/128/4071">128 Stat. 4071</ref>, added item 3511.</p>
+<p style="-uslm-lc:I21" class="indent0">2010—<ref href="/us/pl/111/226/tII/s219/b/3">Pub. L. 111–226, title II, § 219(b)(3)</ref>, <date date="2010-08-10">Aug. 10, 2010</date>, <ref href="/us/stat/124/2403">124 Stat. 2403</ref>, struck out item 3507 “Advance payment of earned income credit”.</p>
+<p style="-uslm-lc:I21" class="indent0">1994—<ref href="/us/pl/103/387/s2/b/2">Pub. L. 103–387, § 2(b)(2)</ref>, <date date="1994-10-22">Oct. 22, 1994</date>, <ref href="/us/stat/108/4074">108 Stat. 4074</ref>, added item 3510.</p>
+<p style="-uslm-lc:I21" class="indent0">1990—<ref href="/us/pl/101/508/tXI/s11801/b/16">Pub. L. 101–508, title XI, § 11801(b)(16)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref href="/us/stat/104/1388-522">104 Stat. 1388–522</ref>, struck out item 3510 “Credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984”.</p>
+<p style="-uslm-lc:I21" class="indent0">1983—<ref href="/us/pl/98/67">Pub. L. 98–67</ref> repealed amendments made by <ref href="/us/pl/97/248/s307">section 307 of Pub. L. 97–248</ref>. See 1982 Amendment note below.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/98/21/tI/s123/b/2">Pub. L. 98–21, title I, § 123(b)(2)</ref>, <date date="1983-04-20">Apr. 20, 1983</date>, <ref href="/us/stat/97/88">97 Stat. 88</ref>, added item 3510.</p>
+<p style="-uslm-lc:I21" class="indent0">1982—<ref href="/us/pl/97/248/tII">Pub. L. 97–248, title II</ref>, §§ 269(d), 270(b), <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/553">96 Stat. 553</ref>, 554, added items 3508 and 3509.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/97/248/tIII">Pub. L. 97–248, title III</ref>, §§ 307(b)(5), 308(a), <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/591">96 Stat. 591</ref>, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after <date date="1983-06-30">June 30, 1983</date>, the caption of chapter 25 is amended by inserting “AND COLLECTION OF INCOME TAXES AT SOURCE”. Section 102(a), (b) of <ref href="/us/pl/98/67/tI">Pub. L. 98–67, title I</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref href="/us/stat/97/369">97 Stat. 369</ref>, repealed subtitle A (§§ 301–308) of title III of <ref href="/us/pl/97/248">Pub. L. 97–248</ref> as of the close of <date date="1983-06-30">June 30, 1983</date>, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.</p>
+<p style="-uslm-lc:I21" class="indent0">1978—<ref href="/us/pl/95/600/tI/s105/b/2">Pub. L. 95–600, title I, § 105(b)(2)</ref>, <date date="1978-11-06">Nov. 6, 1978</date>, <ref href="/us/stat/92/2776">92 Stat. 2776</ref>, added item 3507.</p>
+<p style="-uslm-lc:I21" class="indent0">1977—<ref href="/us/pl/95/171/s10/b">Pub. L. 95–171, § 10(b)</ref>, <date date="1977-11-12">Nov. 12, 1977</date>, <ref href="/us/stat/91/1356">91 Stat. 1356</ref>, added item 3506.</p>
+<p style="-uslm-lc:I21" class="indent0">1966—<ref href="/us/pl/89/719/tI/s105/c">Pub. L. 89–719, title I, § 105(c)</ref>, <date date="1966-11-02">Nov. 2, 1966</date>, <ref href="/us/stat/80/1139">80 Stat. 1139</ref>, added item 3505.</p>
+</note>
+</notes>
+<section style="-uslm-lc:I80" id="id56326b76-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3501"><num value="3501">§ 3501.</num><heading> Collection and payment of taxes</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b77-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3501/a"><num value="a" class="bold">(a)</num><heading class="bold"> General rule</heading><content><p style="-uslm-lc:I11" class="indent0">The taxes imposed by this subtitle shall be collected by the Secretary and shall be paid into the Treasury of the United States as internal-revenue collections.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b78-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3501/b"><num value="b" class="bold">(b)</num><heading class="bold"> Taxes with respect to non-cash fringe benefits</heading><content><p style="-uslm-lc:I11" class="indent0">The taxes imposed by this subtitle with respect to non-cash fringe benefits shall be collected (or paid) by the employer at the time and in the manner prescribed by the Secretary by regulations.</p>
+</content>
+</subsection>
+<sourceCredit id="id56326b79-efb1-11f0-81a7-eb72860d333c">(<ref href="/us/act/1954-08-16/ch736">Aug. 16, 1954, ch. 736</ref>, <ref href="/us/stat/68A/471">68A Stat. 471</ref>; <ref href="/us/pl/94/455/tXIX/s1906/b/13/A">Pub. L. 94–455, title XIX, § 1906(b)(13)(A)</ref>, <date date="1976-10-04">Oct. 4, 1976</date>, <ref href="/us/stat/90/1834">90 Stat. 1834</ref>; <ref href="/us/pl/98/369/dA/tV/s531/d/5">Pub. L. 98–369, div. A, title V, § 531(d)(5)</ref>, <date date="1984-07-18">July 18, 1984</date>, <ref href="/us/stat/98/885">98 Stat. 885</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326b7a-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326b7b-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326b7c-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1984—<ref href="/us/pl/98/369">Pub. L. 98–369</ref> designated existing provisions as subsec. (a), added heading, and added subsec. (b).</p>
+<p style="-uslm-lc:I21" class="indent0">1976—<ref href="/us/pl/94/455">Pub. L. 94–455</ref> struck out “or his delegate” after “Secretary”.</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326b7d-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDateOfAmendment" id="id56326b7e-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date of 1984 Amendment</heading><p style="-uslm-lc:I21" class="indent0">Amendment by <ref href="/us/pl/98/369">Pub. L. 98–369</ref> effective <date date="1985-01-01">Jan. 1, 1985</date>, see <ref href="/us/pl/98/369/s531/h">section 531(h) of Pub. L. 98–369</ref>, set out as an Effective Date note under <ref href="/us/usc/t26/s132">section 132 of this title</ref>.</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326b7f-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3502"><num value="3502">§ 3502.</num><heading> Nondeductibility of taxes in computing taxable income</heading><subsection style="-uslm-lc:I11" class="indent0" id="id56326b80-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3502/a"><num value="a">(a)</num><content> The taxes imposed by section 3101 of chapter 21, and by sections 3201 and 3211 of chapter 22 shall not be allowed as a deduction to the taxpayer in computing taxable income under subtitle A.</content>
+</subsection>
+<subsection style="-uslm-lc:I11" class="indent0" id="id56326b81-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3502/b"><num value="b">(b)</num><content> The tax deducted and withheld under chapter 24 shall not be allowed as a deduction either to the employer or to the recipient of the income in computing taxable income under subtitle A.</content>
+</subsection>
+<sourceCredit id="id56326b82-efb1-11f0-81a7-eb72860d333c">(<ref href="/us/act/1954-08-16/ch736">Aug. 16, 1954, ch. 736</ref>, <ref href="/us/stat/68A/471">68A Stat. 471</ref>; <ref href="/us/pl/97/248/tIII">Pub. L. 97–248, title III</ref>, §§ 305(b), 308(a), <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/588">96 Stat. 588</ref>, 591; <ref href="/us/pl/98/67/tI/s102/a">Pub. L. 98–67, title I, § 102(a)</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref href="/us/stat/97/369">97 Stat. 369</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326b83-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326b84-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326b85-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1983—Subsecs. (b), (c). <ref href="/us/pl/98/67">Pub. L. 98–67</ref> repealed amendments made by <ref href="/us/pl/97/248">Pub. L. 97–248</ref>. See 1982 Amendment note below.</p>
+<p style="-uslm-lc:I21" class="indent0">1982—Subsecs. (b), (c). <ref href="/us/pl/97/248">Pub. L. 97–248</ref> provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after <date date="1983-06-30">June 30, 1983</date>, subsec. (b) is amended and a new subsec. (c) is added. Section 102(a), (b) of <ref href="/us/pl/98/67/tI">Pub. L. 98–67, title I</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref href="/us/stat/97/369">97 Stat. 369</ref>, repealed subtitle A (§§ 301–308) of title III of <ref href="/us/pl/97/248">Pub. L. 97–248</ref> as of the close of <date date="1983-06-30">June 30, 1983</date>, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326b86-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3503"><num value="3503">§ 3503.</num><heading> Erroneous payments</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Any tax paid under chapter 21 or 22 by a taxpayer with respect to any period with respect to which he is not liable to tax under such chapter shall be credited against the tax, if any, imposed by such other chapter upon the taxpayer, and the balance, if any, shall be refunded.</p>
+</content><sourceCredit id="id56326b87-efb1-11f0-81a7-eb72860d333c">(<ref href="/us/act/1954-08-16/ch736">Aug. 16, 1954, ch. 736</ref>, <ref href="/us/stat/68A/471">68A Stat. 471</ref>.)</sourceCredit>
+</section>
+<section style="-uslm-lc:I80" id="id56326b88-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3504"><num value="3504">§ 3504.</num><heading> Acts to be performed by agents</heading><content>
+<p style="-uslm-lc:I11" class="indent0">In case a fiduciary, agent, or other person has the control, receipt, custody, or disposal of, or pays the wages of an employee or group of employees, employed by one or more employers, the Secretary, under regulations prescribed by him, is authorized to designate such fiduciary, agent, or other person to perform such acts as are required of employers under this title and as the Secretary may specify. Except as may be otherwise prescribed by the Secretary, all provisions of law (including penalties) applicable in respect of an employer shall be applicable to a fiduciary, agent, or other person so designated but, except as so provided, the employer for whom such fiduciary, agent, or other person acts shall remain subject to the provisions of law (including penalties) applicable in respect of employers.</p>
+</content><sourceCredit id="id56326b89-efb1-11f0-81a7-eb72860d333c">(<ref href="/us/act/1954-08-16/ch736">Aug. 16, 1954, ch. 736</ref>, <ref href="/us/stat/68A/471">68A Stat. 471</ref>; <ref href="/us/pl/85/866/tI/s71">Pub. L. 85–866, title I, § 71</ref>, <date date="1958-09-02">Sept. 2, 1958</date>, <ref href="/us/stat/72/1660">72 Stat. 1660</ref>; <ref href="/us/pl/94/455/tXIX/s1906/b/13/A">Pub. L. 94–455, title XIX, § 1906(b)(13)(A)</ref>, <date date="1976-10-04">Oct. 4, 1976</date>, <ref href="/us/stat/90/1834">90 Stat. 1834</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326b8a-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326b8b-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326b8c-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1976—<ref href="/us/pl/94/455">Pub. L. 94–455</ref> struck out “or his delegate” after “Secretary” in three places.</p>
+<p style="-uslm-lc:I21" class="indent0">1958—<ref href="/us/pl/85/866">Pub. L. 85–866</ref> substituted “title” for “subtitle” in first sentence.</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326b8d-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDateOfAmendment" id="id56326b8e-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date of 1958 Amendment</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/85/866/tI/s71">Pub. L. 85–866, title I, § 71</ref>, <date date="1958-09-02">Sept. 2, 1958</date>, <ref href="/us/stat/72/1660">72 Stat. 1660</ref>, provided that the amendment made by that section is effective with respect to remuneration paid after <date date="1954-12-31">Dec. 31, 1954</date>.</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326b8f-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3505"><num value="3505">§ 3505.</num><heading> Liability of third parties paying or providing for wages</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b90-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3505/a"><num value="a" class="bold">(a)</num><heading class="bold"> Direct payment by third parties</heading><content><p style="-uslm-lc:I11" class="indent0">For purposes of sections 3102, 3202, 3402, and 3403, if a lender, surety, or other person, who is not an employer under such sections with respect to an employee or group of employees, pays wages directly to such an employee or group of employees, employed by one or more employers, or to an agent on behalf of such employee or employees, such lender, surety, or other person shall be liable in his own person and estate to the United States in a sum equal to the taxes (together with interest) required to be deducted and withheld from such wages by such employer.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b91-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3505/b"><num value="b" class="bold">(b)</num><heading class="bold"> Personal liability where funds are supplied</heading><content><p style="-uslm-lc:I11" class="indent0">If a lender, surety, or other person supplies funds to or for the account of an employer for the specific purpose of paying wages of the employees of such employer, with actual notice or knowledge (within the meaning of section 6323(i)(1)) that such employer does not intend to or will not be able to make timely payment or deposit of the amounts of tax required by this subtitle to be deducted and withheld by such employer from such wages, such lender, surety, or other person shall be liable in his own person and estate to the United States in a sum equal to the taxes (together with interest) which are not paid over to the United States by such employer with respect to such wages. However, the liability of such lender, surety, or other person shall be limited to an amount equal to 25 percent of the amount so supplied to or for the account of such employer for such purpose.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b92-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3505/c"><num value="c" class="bold">(c)</num><heading class="bold"> Effect of payment</heading><content><p style="-uslm-lc:I11" class="indent0">Any amounts paid to the United States pursuant to this section shall be credited against the liability of the employer.</p>
+</content>
+</subsection>
+<sourceCredit id="id56326b93-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/89/719/tI/s105/a">Pub. L. 89–719, title I, § 105(a)</ref>, <date date="1966-11-02">Nov. 2, 1966</date>, <ref href="/us/stat/80/1138">80 Stat. 1138</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326b94-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326b95-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326b96-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date</heading><p style="-uslm-lc:I21" class="indent0">Section applicable only with respect to wages paid on or after <date date="1967-01-01">Jan. 1, 1967</date>, see <ref href="/us/pl/89/719/s114/c/1">section 114(c)(1) of Pub. L. 89–719</ref>, set out as an Effective Date of 1966 Amendment note under <ref href="/us/usc/t26/s6323">section 6323 of this title</ref>.</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326b97-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3506"><num value="3506">§ 3506.</num><heading> Individuals providing companion sitting placement services</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b98-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3506/a"><num value="a" class="bold">(a)</num><heading class="bold"> In general</heading><content><p style="-uslm-lc:I11" class="indent0">For purposes of this subtitle, a person engaged in the trade or business of putting sitters in touch with individuals who wish to employ them shall not be treated as the employer of such sitters (and such sitters shall not be treated as employees of such person) if such person does not pay or receive the salary or wages of the sitters and is compensated by the sitters or the persons who employ them on a fee basis.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b99-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3506/b"><num value="b" class="bold">(b)</num><heading class="bold"> Definition</heading><content><p style="-uslm-lc:I11" class="indent0">For purposes of this section, the term “sitters” means individuals who furnish personal attendance, companionship, or household care services to children or to individuals who are elderly or disabled.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326b9a-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3506/c"><num value="c" class="bold">(c)</num><heading class="bold"> Regulations</heading><content><p style="-uslm-lc:I11" class="indent0">The Secretary shall prescribe such regulations as may be necessary to carry out the purpose of this section.</p>
+</content>
+</subsection>
+<sourceCredit id="id56326b9b-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/95/171/s10/a">Pub. L. 95–171, § 10(a)</ref>, <date date="1977-11-12">Nov. 12, 1977</date>, <ref href="/us/stat/91/1356">91 Stat. 1356</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326b9c-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326b9d-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326b9e-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date</heading><p><ref href="/us/pl/95/171/s10/c">Pub. L. 95–171, § 10(c)</ref>, <date date="1977-11-12">Nov. 12, 1977</date>, <ref href="/us/stat/91/1356">91 Stat. 1356</ref>, provided that: <quotedContent origin="/us/pl/95/171/s10/c">“The amendments made by this section [enacting this section] shall apply to remuneration received after <date date="1974-12-31">December 31, 1974</date>.”</quotedContent>
+</p>
+</note>
+<note style="-uslm-lc:I74" topic="miscellaneous" id="id56326b9f-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Unemployment Compensation or Social Security Benefits Based on Services Performed Before <date date="1977-11-12">November 12, 1977</date>, Unaffected</heading><p><ref href="/us/pl/95/171/s10/d">Pub. L. 95–171, § 10(d)</ref>, <date date="1977-11-12">Nov. 12, 1977</date>, <ref href="/us/stat/91/1356">91 Stat. 1356</ref>, provided that: <quotedContent origin="/us/pl/95/171/s10/d">“The amendments made by this section [enacting this section] shall not be construed as affecting (1) any individual’s right to receive unemployment compensation based on services performed before the date of the enactment of this Act [<date date="1977-11-12">Nov. 12, 1977</date>], or (2) any individual’s eligibility for social security benefits to the extent based on services performed before that date.”</quotedContent>
+</p>
+</note>
+</notes>
+</section>
+<section status="repealed" style="-uslm-lc:I80" id="id56326ba0-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3507"><num value="3507">[§ 3507.</num><heading> Repealed. <ref href="/us/pl/111/226/tII/s219/a/1">Pub. L. 111–226, title II, § 219(a)(1)</ref>, <date date="2010-08-10">Aug. 10, 2010</date>, <ref href="/us/stat/124/2403">124 Stat. 2403</ref>]</heading><notes type="uscNote" id="id56326ba1-efb1-11f0-81a7-eb72860d333c">
+<note topic="removalDescription" id="id56326ba2-efb1-11f0-81a7-eb72860d333c">
+<p style="-uslm-lc:I21" class="indent0">Section, added <ref href="/us/pl/95/600/tI/s105/b/1">Pub. L. 95–600, title I, § 105(b)(1)</ref>, <date date="1978-11-06">Nov. 6, 1978</date>, <ref href="/us/stat/92/2773">92 Stat. 2773</ref>; amended <ref href="/us/pl/97/248/tIII">Pub. L. 97–248, title III</ref>, §§ 307(a)(3), 308(a), <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/589">96 Stat. 589</ref>, 591; <ref href="/us/pl/98/67/tI/s102/a">Pub. L. 98–67, title I, § 102(a)</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref href="/us/stat/97/369">97 Stat. 369</ref>; <ref href="/us/pl/98/369/dA/tIV/s474/r/30">Pub. L. 98–369, div. A, title IV, § 474(r)(30)</ref>, title X, § 1042(d)(3), (4), <date date="1984-07-18">July 18, 1984</date>, <ref href="/us/stat/98/845">98 Stat. 845</ref>, 1044; <ref href="/us/pl/99/514/tI/s111/d/2">Pub. L. 99–514, title I, § 111(d)(2)</ref>, (3), <date date="1986-10-22">Oct. 22, 1986</date>, <ref href="/us/stat/100/2108">100 Stat. 2108</ref>; <ref href="/us/pl/101/508/tXI/s11111/c">Pub. L. 101–508, title XI, § 11111(c)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref href="/us/stat/104/1388-412">104 Stat. 1388–412</ref>; <ref href="/us/pl/103/66/tXIII/s13131/d/4">Pub. L. 103–66, title XIII, § 13131(d)(4)</ref>–(6), <date date="1993-08-10">Aug. 10, 1993</date>, <ref href="/us/stat/107/435">107 Stat. 435</ref>; <ref href="/us/pl/103/465/tVII/s721/c">Pub. L. 103–465, title VII, § 721(c)</ref>, <date date="1994-12-08">Dec. 8, 1994</date>, <ref href="/us/stat/108/5002">108 Stat. 5002</ref>, related to advance payment of earned income credit.</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326ba3-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326ba4-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date of Repeal</heading><p style="-uslm-lc:I21" class="indent0">Repeal applicable to taxable years beginning after <date date="2010-12-31">Dec. 31, 2010</date>, see <ref href="/us/pl/111/226/s219/c">section 219(c) of Pub. L. 111–226</ref>, set out as an Effective Date of 2010 Amendment note under <ref href="/us/usc/t26/s32">section 32 of this title</ref>.</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326ba5-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508"><num value="3508">§ 3508.</num><heading> Treatment of real estate agents and direct­ sellers</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326ba6-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/a"><num value="a" class="bold">(a)</num><heading class="bold"> General rule</heading><chapeau style="-uslm-lc:I11" class="indent0">For purposes of this title, in the case of services performed as a qualified real estate agent or as a direct seller—</chapeau><paragraph style="-uslm-lc:I12" class="indent1" id="id56326ba7-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/a/1"><num value="1">(1)</num><content> the individual performing such services shall not be treated as an employee, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326ba8-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/a/2"><num value="2">(2)</num><content> the person for whom such services are performed shall not be treated as an employer.</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326ba9-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b"><num value="b" class="bold">(b)</num><heading class="bold"> Definitions</heading><chapeau style="-uslm-lc:I11" class="indent0">For purposes of this section—</chapeau><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326baa-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/1"><num value="1" class="bold">(1)</num><heading class="bold"> Qualified real estate agent</heading><chapeau style="-uslm-lc:I12" class="indent1">The term “qualified real estate agent” means any individual who is a sales person if—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bab-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/1/A"><num value="A">(A)</num><content> such individual is a licensed real estate agent,</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bac-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/1/B"><num value="B">(B)</num><content> substantially all of the remuneration (whether or not paid in cash) for the services performed by such individual as a real estate agent is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bad-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/1/C"><num value="C">(C)</num><content> the services performed by the individual are performed pursuant to a written contract between such individual and the person for whom the services are performed and such contract provides that the individual will not be treated as an employee with respect to such services for Federal tax purposes.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bae-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/2"><num value="2" class="bold">(2)</num><heading class="bold"> Direct seller</heading><chapeau style="-uslm-lc:I12" class="indent1">The term “direct seller” means any person if—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326baf-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/2/A"><num value="A">(A)</num><chapeau> such person—</chapeau><clause style="-uslm-lc:I14" class="indent3" id="id56326bb0-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/2/A/i"><num value="i">(i)</num><content> is engaged in the trade or business of selling (or soliciting the sale of) consumer products to any buyer on a buy-sell basis, a deposit-commission basis, or any similar basis which the Secretary prescribes by regulations, for resale (by the buyer or any other person) in the home or otherwise than in a permanent retail establishment,</content>
+</clause>
+<clause style="-uslm-lc:I14" class="indent3" id="id56326bb1-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/2/A/ii"><num value="ii">(ii)</num><content> is engaged in the trade or business of selling (or soliciting the sale of) consumer products in the home or otherwise than in a permanent retail establishment, or</content>
+</clause>
+<clause style="-uslm-lc:I14" class="indent3" id="id56326bb2-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/2/A/iii"><num value="iii">(iii)</num><content> is engaged in the trade or business of the delivering or distribution of newspapers or shopping news (including any services directly related to such trade or business),</content>
+</clause>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bb3-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/2/B"><num value="B">(B)</num><content> substantially all the remuneration (whether or not paid in cash) for the performance of the services described in subparagraph (A) is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bb4-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/2/C"><num value="C">(C)</num><content> the services performed by the person are performed pursuant to a written contract between such person and the person for whom the services are performed and such contract provides that the person will not be treated as an employee with respect to such services for Federal tax purposes.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bb5-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3508/b/3"><num value="3" class="bold">(3)</num><heading class="bold"> Coordination with retirement plans for self-employed</heading><content><p style="-uslm-lc:I12" class="indent1">This section shall not apply for purposes of subtitle A to the extent that the individual is treated as an employee under section 401(c)(1) (relating to self-employed individuals).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit id="id56326bb6-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/97/248/tII/s269/a">Pub. L. 97–248, title II, § 269(a)</ref>, <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/551">96 Stat. 551</ref>; amended <ref href="/us/pl/104/188/tI/s1118/a">Pub. L. 104–188, title I, § 1118(a)</ref>, <date date="1996-08-20">Aug. 20, 1996</date>, <ref href="/us/stat/110/1764">110 Stat. 1764</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326bb7-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326bb8-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326bb9-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">1996—Subsec. (b)(2)(A). <ref href="/us/pl/104/188">Pub. L. 104–188</ref> added cl. (iii).</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326bba-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDateOfAmendment" id="id56326bbb-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date of 1996 Amendment</heading><p><ref href="/us/pl/104/188/tXI/s1118/b">Pub. L. 104–188, title XI, § 1118(b)</ref>, <date date="1996-08-20">Aug. 20, 1996</date>, <ref href="/us/stat/110/1764">110 Stat. 1764</ref>, provided that: <quotedContent origin="/us/pl/104/188/tXI/s1118/b">“The amendments made by this section shall apply to services performed after <date date="1995-12-31">December 31, 1995</date>.”</quotedContent>
+</p>
+</note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326bbc-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date</heading><p><ref href="/us/pl/97/248/tII/s269/e">Pub. L. 97–248, title II, § 269(e)</ref>, <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/553">96 Stat. 553</ref>, provided that:<quotedContent origin="/us/pl/97/248/tII/s269/e">
+<paragraph style="-uslm-lc:I21" class="indent0"><num value="1">“(1)</num><heading> <inline class="small-caps">In general</inline>.—</heading><content>Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending <ref href="/us/usc/t42/s410">section 410 of Title 42</ref>, The Public Health and Welfare] shall apply to services performed after <date date="1982-12-31">December 31, 1982</date>.</content>
+</paragraph>
+<paragraph style="-uslm-lc:I21" class="indent0"><num value="2">“(2)</num><heading> <inline class="small-caps">Subsection</inline> (c).—</heading><content>The amendments made by subsection (c) [amending provisions set out as a note under <ref href="/us/usc/t26/s3401">section 3401 of this title</ref>] shall take effect on <date date="1982-07-01">July 1, 1982</date>.”</content>
+</paragraph>
+</quotedContent>
+</p>
+</note>
+<note style="-uslm-lc:I74" topic="miscellaneous" id="id56326bbd-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Rules and Regulations</heading><p><ref href="/us/pl/97/248/tII/s269/c/3">Pub. L. 97–248, title II, § 269(c)(3)</ref>, <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/553">96 Stat. 553</ref>, provided that: <quotedContent origin="/us/pl/97/248/tII/s269/c/3">“Nothing in section 530 of the Revenue Act of 1978 [set out as a note under <ref href="/us/usc/t26/s3401">section 3401 of this title</ref>] shall be construed to prohibit the implementation of the amendments made by this section [enacting this section, amending <ref href="/us/usc/t42/s410">section 410 of Title 42</ref>, The Public Health and Welfare, and amending provisions set out as a note under <ref href="/us/usc/t26/s3401">section 3401 of this title</ref>].”</quotedContent>
+</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326bbe-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509"><num value="3509">§ 3509.</num><heading> Determination of employer’s liability for certain employment taxes</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bbf-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/a"><num value="a" class="bold">(a)</num><heading class="bold"> In general</heading><chapeau style="-uslm-lc:I11" class="indent0">If any employer fails to deduct and withhold any tax under chapter 24 or subchapter A of chapter 21 with respect to any employee by reason of treating such employee as not being an employee for purposes of such chapter or subchapter, the amount of the employer’s liability for—</chapeau><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bc0-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/a/1"><num value="1" class="bold">(1)</num><heading class="bold"> Withholding taxes</heading><content><p style="-uslm-lc:I12" class="indent1">Tax under chapter 24 for such year with respect to such employee shall be determined as if the amount required to be deducted and withheld were equal to 1.5 percent of the wages (as defined in section 3401) paid to such employee.</p>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bc1-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/a/2"><num value="2" class="bold">(2)</num><heading class="bold"> Employee social security tax</heading><content><p style="-uslm-lc:I12" class="indent1">Taxes under subchapter A of chapter 21 with respect to such employee shall be determined as if the taxes imposed under such subchapter were 20 percent of the amount imposed under such subchapter without regard to this subparagraph.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bc2-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/b"><num value="b" class="bold">(b)</num><heading class="bold"> Employer’s liability increased where employer disregards reporting requirements</heading><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bc3-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/b/1"><num value="1" class="bold">(1)</num><heading class="bold"> In general</heading><chapeau style="-uslm-lc:I12" class="indent1">In the case of an employer who fails to meet the applicable requirements of section 6041(a), 6041A, or 6051 with respect to any employee, unless such failure is due to reasonable cause and not willful neglect, subsection (a) shall be applied with respect to such employee—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bc4-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/b/1/A"><num value="A">(A)</num><content> by substituting “3 percent” for “1.5 percent” in paragraph (1); and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bc5-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/b/1/B"><num value="B">(B)</num><content> by substituting “40 percent” for “20 percent” in paragraph (2).</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bc6-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/b/2"><num value="2" class="bold">(2)</num><heading class="bold"> Applicable requirements</heading><content><p style="-uslm-lc:I12" class="indent1">For purposes of paragraph (1), the term “applicable requirements” means the requirements described in paragraph (1) which would be applicable consistent with the employer’s treatment of the employee as not being an employee for purposes of chapter 24 or subchapter A of chapter 21.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bc7-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/c"><num value="c" class="bold">(c)</num><heading class="bold"> Section not to apply in cases of intentional dis­regard</heading><content><p style="-uslm-lc:I11" class="indent0">This section shall not apply to the determination of the employer’s liability for tax under chapter 24 or subchapter A of chapter 21 if such liability is due to the employer’s intentional disregard of the requirement to deduct and withhold such tax.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bc8-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d"><num value="d" class="bold">(d)</num><heading class="bold"> Special rules</heading><chapeau style="-uslm-lc:I11" class="indent0">For purposes of this section—</chapeau><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bc9-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/1"><num value="1" class="bold">(1)</num><heading class="bold"> Determination of liability</heading><chapeau style="-uslm-lc:I12" class="indent1">If the amount of any liability for tax is determined under this section—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bca-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/1/A"><num value="A">(A)</num><content> the employee’s liability for tax shall not be affected by the assessment or collection of the tax so determined,</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bcb-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/1/B"><num value="B">(B)</num><content> the employer shall not be entitled to recover from the employee any tax so determined, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bcc-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/1/C"><num value="C">(C)</num><content> section 3402(d) and section 6521 shall not apply.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bcd-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/2"><num value="2" class="bold">(2)</num><heading class="bold"> Section not to apply where employer deducts wage but not social security taxes</heading><chapeau style="-uslm-lc:I12" class="indent1">This section shall not apply to any employer with respect to any wages if—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bce-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/2/A"><num value="A">(A)</num><content> the employer deducted and withheld any amount of the tax imposed by chapter 24 on such wages, but</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326bcf-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/2/B"><num value="B">(B)</num><content> failed to deduct and withhold the amount of the tax imposed by subchapter A of chapter 21 with respect to such wages.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bd0-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3509/d/3"><num value="3" class="bold">(3)</num><heading class="bold"> Section not to apply to certain statutory employees</heading><content><p style="-uslm-lc:I12" class="indent1">This section shall not apply to any tax under subchapter A of chapter 21 with respect to an individual described in subsection (d)(3) of section 3121 (without regard to whether such individual is described in paragraph (1) or (2) of such subsection).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit id="id56326bd1-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/97/248/tII/s270/a">Pub. L. 97–248, title II, § 270(a)</ref>, <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/553">96 Stat. 553</ref>; amended <ref href="/us/pl/100/647/tII/s2003/d">Pub. L. 100–647, title II, § 2003(d)</ref>, <date date="1988-11-10">Nov. 10, 1988</date>, <ref href="/us/stat/102/3598">102 Stat. 3598</ref>; <ref href="/us/pl/101/508/tV/s5130/a/4">Pub. L. 101–508, title V, § 5130(a)(4)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref href="/us/stat/104/1388-289">104 Stat. 1388–289</ref>; <ref href="/us/pl/115/141/dU/tIV/s401/a/218">Pub. L. 115–141, div. U, title IV, § 401(a)(218)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref href="/us/stat/132/1194">132 Stat. 1194</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326bd2-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326bd3-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326bd4-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">2018—Subsec. (d)(1)(C). <ref href="/us/pl/115/141">Pub. L. 115–141</ref> substituted “section 3402(d)” for “sections 3402(d)”.</p>
+<p style="-uslm-lc:I21" class="indent0">1990—Subsec. (d)(3). <ref href="/us/pl/101/508">Pub. L. 101–508</ref> substituted “subsection (d)(3)” for “subsection (d)(4)”.</p>
+<p style="-uslm-lc:I21" class="indent0">1988—Subsec. (d)(3). <ref href="/us/pl/100/647">Pub. L. 100–647</ref> substituted “subsection (d)(4)” for “subsection (d)(3)”.</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326bd5-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDateOfAmendment" id="id56326bd6-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date of 1990 Amendment</heading><p style="-uslm-lc:I21" class="indent0">Amendment by <ref href="/us/pl/101/508">Pub. L. 101–508</ref> effective as if included in the enactment of <ref href="/us/pl/100/647/s2003/d">Pub. L. 100–647, § 2003(d)</ref>, see <ref href="/us/pl/101/508/s5130/b">section 5130(b) of Pub. L. 101–508</ref>, set out as a note under <ref href="/us/usc/t26/s1402">section 1402 of this title</ref>.</p>
+</note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326bd7-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date</heading><p><ref href="/us/pl/97/248/tII/s270/c">Pub. L. 97–248, title II, § 270(c)</ref>, <date date="1982-09-03">Sept. 3, 1982</date>, <ref href="/us/stat/96/554">96 Stat. 554</ref>, provided that: <quotedContent origin="/us/pl/97/248/tII/s270/c">“The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [<date date="1982-09-03">Sept. 3, 1982</date>], except that such amendments shall not apply to any assessment made before <date date="1983-01-01">January 1, 1983</date>.”</quotedContent>
+</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326bd8-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510"><num value="3510">§ 3510.</num><heading> Coordination of collection of domestic service employment taxes with collection of income taxes</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bd9-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/a"><num value="a" class="bold">(a)</num><heading class="bold"> General rule</heading><chapeau style="-uslm-lc:I11" class="indent0">Except as otherwise provided in this section—</chapeau><paragraph style="-uslm-lc:I12" class="indent1" id="id56326bda-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/a/1"><num value="1">(1)</num><content> returns with respect to domestic service employment taxes shall be made on a calendar year basis,</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326bdb-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/a/2"><num value="2">(2)</num><content> any such return for any calendar year shall be filed on or before the 15th day of the fourth month following the close of the employer’s taxable year which begins in such calendar year, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326bdc-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/a/3"><num value="3">(3)</num><content> no requirement to make deposits (or to pay installments under section 6157) shall apply with respect to such taxes.</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bdd-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/b"><num value="b" class="bold">(b)</num><heading class="bold"> Domestic service employment taxes subject to estimated tax provisions</heading><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bde-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/b/1"><num value="1" class="bold">(1)</num><heading class="bold"> In general</heading><content><p style="-uslm-lc:I12" class="indent1">Solely for purposes of section 6654, domestic service employment taxes imposed with respect to any calendar year shall be treated as a tax imposed by chapter 2 for the taxable year of the employer which begins in such calendar year.</p>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bdf-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/b/2"><num value="2" class="bold">(2)</num><heading class="bold"> Employers not otherwise required to make estimated payments</heading><chapeau style="-uslm-lc:I12" class="indent1">Paragraph (1) shall not apply to any employer for any calendar year if—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326be0-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/b/2/A"><num value="A">(A)</num><content> no credit for wage withholding is allowed under section 31 to such employer for the taxable year of the employer which begins in such calendar year, and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326be1-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/b/2/B"><num value="B">(B)</num><content> no addition to tax would (but for this section) be imposed under section 6654 for such taxable year by reason of section 6654(e).</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326be2-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/b/3"><num value="3" class="bold">(3)</num><heading class="bold"> Annualization</heading><content><p style="-uslm-lc:I12" class="indent1">Under regulations prescribed by the Secretary, appropriate adjustments shall be made in the application of section 6654(d)(2) in respect of the amount treated as tax under paragraph (1).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326be3-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/c"><num value="c" class="bold">(c)</num><heading class="bold"> Domestic service employment taxes</heading><chapeau style="-uslm-lc:I11" class="indent0">For purposes of this section, the term “domestic service employment taxes” means—</chapeau><paragraph style="-uslm-lc:I12" class="indent1" id="id56326be4-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/c/1"><num value="1">(1)</num><content> any taxes imposed by chapter 21 or 23 on remuneration paid for domestic service in a private home of the employer, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326be5-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/c/2"><num value="2">(2)</num><content> any amount withheld from such remuneration pursuant to an agreement under section 3402(p).</content>
+</paragraph>
+
+<continuation style="-uslm-lc:I10" class="indent0 firstIndent0">For purposes of this subsection, the term “domestic service in a private home of the employer” includes domestic service described in section 3121(g)(5).</continuation>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326be6-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/d"><num value="d" class="bold">(d)</num><heading class="bold"> Exception where employer liable for other employment taxes</heading><content><p style="-uslm-lc:I11" class="indent0">To the extent provided in regulations prescribed by the Secretary, this section shall not apply to any employer for any calendar year if such employer is liable for any tax under this subtitle with respect to remuneration for services other than domestic service in a private home of the employer.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326be7-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/e"><num value="e" class="bold">(e)</num><heading class="bold"> General regulatory authority</heading><content><p style="-uslm-lc:I11" class="indent0">The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section. Such regulations may treat domestic service employment taxes as taxes imposed by chapter 1 for purposes of coordinating the assessment and collection of such employment taxes with the assessment and collection of domestic employers’ income taxes.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326be8-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/f"><num value="f" class="bold">(f)</num><heading class="bold"> Authority to enter into agreements to collect State unemployment taxes</heading><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326be9-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/f/1"><num value="1" class="bold">(1)</num><heading class="bold"> In general</heading><content><p style="-uslm-lc:I12" class="indent1">The Secretary is hereby authorized to enter into an agreement with any State to collect, as the agent of such State, such State’s unemployment taxes imposed on remuneration paid for domestic service in a private home of the employer. Any taxes to be collected by the Secretary pursuant to such an agreement shall be treated as domestic service employment taxes for purposes of this section.</p>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bea-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/f/2"><num value="2" class="bold">(2)</num><heading class="bold"> Transfers to State account</heading><content><p style="-uslm-lc:I12" class="indent1">Any amount collected under an agreement referred to in paragraph (1) shall be transferred by the Secretary to the account of the State in the Unemployment Trust Fund.</p>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326beb-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/f/3"><num value="3" class="bold">(3)</num><heading class="bold"> Subtitle F made applicable</heading><content><p style="-uslm-lc:I12" class="indent1">For purposes of subtitle F, any amount required to be collected under an agreement under paragraph (1) shall be treated as a tax imposed by chapter 23.</p>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326bec-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3510/f/4"><num value="4" class="bold">(4)</num><heading class="bold"> State</heading><content><p style="-uslm-lc:I12" class="indent1">For purposes of this subsection, the term “State” has the meaning given such term by section 3306(j)(1).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit id="id56326bed-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/103/387/s2/b/1">Pub. L. 103–387, § 2(b)(1)</ref>, <date date="1994-10-22">Oct. 22, 1994</date>, <ref href="/us/stat/108/4073">108 Stat. 4073</ref>; amended <ref href="/us/pl/113/295/dA/tII/s221/a/102">Pub. L. 113–295, div. A, title II, § 221(a)(102)</ref>, <date date="2014-12-19">Dec. 19, 2014</date>, <ref href="/us/stat/128/4052">128 Stat. 4052</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326bee-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326bef-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="priorProvisions" id="id56326bf0-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Prior Provisions</heading><p style="-uslm-lc:I21" class="indent0">A prior section 3510, added <ref href="/us/pl/98/21/tI/s123/b/1">Pub. L. 98–21, title I, § 123(b)(1)</ref>, <date date="1983-04-20">Apr. 20, 1983</date>, <ref href="/us/stat/97/88">97 Stat. 88</ref>, provided a credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984, prior to repeal by <ref href="/us/pl/101/508/tXI/s11801/a/42">Pub. L. 101–508, title XI, § 11801(a)(42)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref href="/us/stat/104/1388-521">104 Stat. 1388–521</ref>.</p>
+</note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326bf1-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">2014—Subsec. (b)(4). <ref href="/us/pl/113/295">Pub. L. 113–295</ref> struck out par. (4). Text read as follows: “In the case of any taxable year beginning before <date date="1998-01-01">January 1, 1998</date>, no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section.”</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326bf2-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDateOfAmendment" id="id56326bf3-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date of 2014 Amendment</heading><p style="-uslm-lc:I21" class="indent0">Amendment by <ref href="/us/pl/113/295">Pub. L. 113–295</ref> effective <date date="2014-12-19">Dec. 19, 2014</date>, subject to a savings provision, see <ref href="/us/pl/113/295/s221/b">section 221(b) of Pub. L. 113–295</ref>, set out as a note under <ref href="/us/usc/t26/s1">section 1 of this title</ref>.</p>
+</note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326bf4-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date</heading><p><ref href="/us/pl/103/387/s2/b/3">Pub. L. 103–387, § 2(b)(3)</ref>, <date date="1994-10-22">Oct. 22, 1994</date>, <ref href="/us/stat/108/4074">108 Stat. 4074</ref>, provided that: <quotedContent origin="/us/pl/103/387/s2/b/3">“The amendments made by this subsection [enacting this section] shall apply to remuneration paid in calendar years beginning after <date date="1994-12-31">December 31, 1994</date>.”</quotedContent>
+</p>
+</note>
+<note style="-uslm-lc:I74" topic="miscellaneous" id="id56326bf5-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Expanded Information to Employers</heading><p><ref href="/us/pl/103/387/s2/b/4">Pub. L. 103–387, § 2(b)(4)</ref>, <date date="1994-10-22">Oct. 22, 1994</date>, <ref href="/us/stat/108/4074">108 Stat. 4074</ref>, provided that: <quotedContent origin="/us/pl/103/387/s2/b/4">“The Secretary of the Treasury or the Secretary’s delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation.”</quotedContent>
+</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326bf6-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511"><num value="3511">§ 3511.</num><heading> Certified professional employer organizations</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bf7-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/a"><num value="a" class="bold">(a)</num><heading class="bold"> General rules</heading><chapeau style="-uslm-lc:I11" class="indent0">For purposes of the taxes, and other obligations, imposed by this subtitle—</chapeau><paragraph style="-uslm-lc:I12" class="indent1" id="id56326bf8-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/a/1"><num value="1">(1)</num><content> a certified professional employer organization shall be treated as the employer (and no other person shall be treated as the employer) of any work site employee performing services for any customer of such organization, but only with respect to remuneration remitted by such organization to such work site employee, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326bf9-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/a/2"><num value="2">(2)</num><content> the exemptions, exclusions, definitions, and other rules which are based on type of employer and which would (but for paragraph (1)) apply shall apply with respect to such taxes imposed on such remuneration.</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bfa-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/b"><num value="b" class="bold">(b)</num><heading class="bold"> Successor employer status</heading><chapeau style="-uslm-lc:I11" class="indent0">For purposes of sections 3121(a)(1), 3231(e)(2)(C), and 3306(b)(1)—</chapeau><paragraph style="-uslm-lc:I12" class="indent1" id="id56326bfb-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/b/1"><num value="1">(1)</num><content> a certified professional employer organization entering into a service contract with a customer with respect to a work site employee shall be treated as a successor employer and the customer shall be treated as a predecessor employer during the term of such service contract, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326bfc-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/b/2"><num value="2">(2)</num><content> a customer whose service contract with a certified professional employer organization is terminated with respect to a work site employee shall be treated as a successor employer and the certified professional employer organization shall be treated as a predecessor employer.</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326bfd-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/c"><num value="c" class="bold">(c)</num><heading class="bold"> Liability of certified professional employer organization</heading><chapeau style="-uslm-lc:I11" class="indent0">Solely for purposes of its liability for the taxes and other obligations imposed by this subtitle—</chapeau><paragraph style="-uslm-lc:I12" class="indent1" id="id56326bfe-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/c/1"><num value="1">(1)</num><content> a certified professional employer organization shall be treated as the employer of any individual (other than a work site employee or a person described in subsection (f)) who is performing services covered by a contract meeting the requirements of section 7705(e)(2), but only with respect to remuneration remitted by such organization to such individual, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326bff-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/c/2"><num value="2">(2)</num><content> the exemptions, exclusions, definitions, and other rules which are based on type of employer and which would (but for paragraph (1)) apply shall apply with respect to such taxes imposed on such remuneration.</content>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326c00-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d"><num value="d" class="bold">(d)</num><heading class="bold"> Treatment of credits</heading><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326c01-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/1"><num value="1" class="bold">(1)</num><heading class="bold"> In general</heading><chapeau style="-uslm-lc:I12" class="indent1">For purposes of any credit specified in paragraph (2)—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c02-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/1/A"><num value="A">(A)</num><content> such credit with respect to a work site employee performing services for the customer applies to the customer, not the certified professional employer organization,</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c03-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/1/B"><num value="B">(B)</num><chapeau> the customer, and not the certified professional employer organization, shall take into account wages and employment taxes—</chapeau><clause style="-uslm-lc:I14" class="indent3" id="id56326c04-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/1/B/i"><num value="i">(i)</num><content> paid by the certified professional employer organization with respect to the work site employee, and</content>
+</clause>
+<clause style="-uslm-lc:I14" class="indent3" id="id56326c05-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/1/B/ii"><num value="ii">(ii)</num><content> for which the certified professional employer organization receives payment from the customer, and</content>
+</clause>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c06-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/1/C"><num value="C">(C)</num><content> the certified professional employer organization shall furnish the customer and the Secretary with any information necessary for the customer to claim such credit.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326c07-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2"><num value="2" class="bold">(2)</num><heading class="bold"> Credits specified</heading><chapeau style="-uslm-lc:I12" class="indent1">A credit is specified in this paragraph if such credit is allowed under—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c08-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/A"><num value="A">(A)</num><content> section 41 (credit for increasing research activity),</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c09-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/B"><num value="B">(B)</num><content> section 45A (Indian employment credit),</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c0a-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/C"><num value="C">(C)</num><content> section 45B (credit for portion of employer social security taxes paid with respect to employee cash tips),</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c0b-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/D"><num value="D">(D)</num><content> section 45C (clinical testing expenses for certain drugs for rare diseases or conditions),</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c0c-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/E"><num value="E">(E)</num><content> section 45R (employee health insurance expenses of small employers),</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c0d-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/F"><num value="F">(F)</num><content> section 45AA (military spouse retirement plan eligibility credit),</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c0e-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/G"><num value="G">(G)</num><content> section 51 (work opportunity credit),</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c0f-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/H"><num value="H">(H)</num><content> section 1396 (empowerment zone employment credit), and</content>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c10-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/d/2/I"><num value="I">(I)</num><content> any other section as provided by the Secretary.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326c11-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/e"><num value="e" class="bold">(e)</num><heading class="bold"> Special rule for related party</heading><content><p style="-uslm-lc:I11" class="indent0">This section shall not apply in the case of a customer which bears a relationship to a certified professional employer organization described in section 267(b) or 707(b). For purposes of the preceding sentence, such sections shall be applied by substituting “10 percent” for “50 percent”.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326c12-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/f"><num value="f" class="bold">(f)</num><heading class="bold"> Special rule for certain individuals</heading><content><p style="-uslm-lc:I11" class="indent0">For purposes of the taxes imposed under this subtitle, an individual with net earnings from self-employment derived from the customer’s trade or business (including a partner in a partnership that is a customer) is not a work site employee with respect to remuneration paid by a certified professional employer organization.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326c13-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/g"><num value="g" class="bold">(g)</num><heading class="bold"> Reporting requirements and obligations</heading><chapeau style="-uslm-lc:I11" class="indent0">The Secretary shall develop such reporting and recordkeeping rules, regulations, and procedures as the Secretary determines necessary or appropriate to ensure compliance with this title by certified professional employer organizations or persons that have been so certified. Such rules shall include—</chapeau><paragraph style="-uslm-lc:I12" class="indent1" id="id56326c14-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/g/1"><num value="1">(1)</num><content> notification of the Secretary in such manner as the Secretary shall prescribe in the case of the commencement or termination of a service contract described in section 7705(e)(2) between such a person and a customer, and the employer identification number of such customer,</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326c15-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/g/2"><num value="2">(2)</num><content> such information as the Secretary determines necessary for the customer to claim the credits identified in subsection (d) and the manner in which such information is to be provided, as prescribed by the Secretary, and</content>
+</paragraph>
+<paragraph style="-uslm-lc:I12" class="indent1" id="id56326c16-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/g/3"><num value="3">(3)</num><content> such other information as the Secretary determines is essential to promote compliance with respect to the credits identified in subsection (d) and section 3302, and</content>
+</paragraph>
+
+<continuation style="-uslm-lc:I10" class="indent0 firstIndent0">shall be designed in a manner which streamlines, to the extent possible, the application of requirements of this section and section 7705, the exchange of information between a certified professional employer organization and its customers, and the reporting and recordkeeping obligations of the certified professional employer organization.</continuation>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326c17-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3511/h"><num value="h" class="bold">(h)</num><heading class="bold"> Regulations</heading><content><p style="-uslm-lc:I11" class="indent0">The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.</p>
+</content>
+</subsection>
+<sourceCredit id="id56326c18-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/113/295/dB/tII/s206/a">Pub. L. 113–295, div. B, title II, § 206(a)</ref>, <date date="2014-12-19">Dec. 19, 2014</date>, <ref href="/us/stat/128/4065">128 Stat. 4065</ref>; amended <ref href="/us/pl/117/328/dT/tI/s112/c">Pub. L. 117–328, div. T, title I, § 112(c)</ref>, <date date="2022-12-29">Dec. 29, 2022</date>, <ref href="/us/stat/136/5295">136 Stat. 5295</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326c19-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326c1a-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id56326c1b-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">2022—Subsec. (d)(2)(F) to (I). <ref href="/us/pl/117/328">Pub. L. 117–328</ref> added subpar. (F) and redesignated former subpars. (F) to (H) as (G) to (I), respectively.</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326c1c-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDateOfAmendment" id="id56326c1d-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date of 2022 Amendment</heading><p style="-uslm-lc:I21" class="indent0">Amendment by <ref href="/us/pl/117/328">Pub. L. 117–328</ref> applicable to taxable years beginning after <date date="2022-12-29">Dec. 29, 2022</date>, see <ref href="/us/pl/117/328/s112/e">section 112(e) of Pub. L. 117–328</ref>, set out as a note under <ref href="/us/usc/t26/s38">section 38 of this title</ref>.</p>
+</note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326c1e-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date</heading><p style="-uslm-lc:I21" class="indent0">Section applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after <date date="2014-12-19">Dec. 19, 2014</date>, see <ref href="/us/pl/113/295/s206/g/1">section 206(g)(1) of Pub. L. 113–295</ref>, set out as an Effective Date of 2014 Amendment note under <ref href="/us/usc/t26/s3302">section 3302 of this title</ref>.</p>
+</note>
+</notes>
+</section>
+<section style="-uslm-lc:I80" id="id56326c1f-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512"><num value="3512">§ 3512.</num><heading> Treatment of certain persons as employers with respect to motion picture projects</heading><subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326c20-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/a"><num value="a" class="bold">(a)</num><heading class="bold"> In general</heading><content><p style="-uslm-lc:I11" class="indent0">For purposes of sections 3121(a)(1) and 3306(b)(1), remuneration paid to a motion picture project worker by a motion picture project employer during a calendar year shall be treated as remuneration paid with respect to employment of such worker by such employer during the calendar year. The identity of such employer for such purposes shall be determined as set forth in this section and without regard to the usual common law rules applicable in determining the employer-employee relationship.</p>
+</content>
+</subsection>
+<subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id56326c21-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b"><num value="b" class="bold">(b)</num><heading class="bold"> Definitions</heading><chapeau style="-uslm-lc:I11" class="indent0">For purposes of this section—</chapeau><paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326c22-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1"><num value="1" class="bold">(1)</num><heading class="bold"> Motion picture project employer</heading><chapeau style="-uslm-lc:I12" class="indent1">The term “motion picture project employer” means any person if—</chapeau><subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c23-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1/A"><num value="A">(A)</num><chapeau> such person (directly or through affiliates)—</chapeau><clause style="-uslm-lc:I14" class="indent3" id="id56326c24-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1/A/i"><num value="i">(i)</num><content> is a party to a written contract covering the services of motion picture project workers with respect to motion picture projects in the course of a client’s trade or business,</content>
+</clause>
+<clause style="-uslm-lc:I14" class="indent3" id="id56326c25-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1/A/ii"><num value="ii">(ii)</num><content> is contractually obligated to pay remuneration to the motion picture project workers without regard to payment or reimbursement by any other person,</content>
+</clause>
+<clause style="-uslm-lc:I14" class="indent3" id="id56326c26-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1/A/iii"><num value="iii">(iii)</num><content> controls the payment (within the meaning of section 3401(d)(1)) of remuneration to the motion picture project workers and pays such remuneration from its own account or accounts,</content>
+</clause>
+<clause style="-uslm-lc:I14" class="indent3" id="id56326c27-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1/A/iv"><num value="iv">(iv)</num><content> is a signatory to one or more collective bargaining agreements with a labor organization (as defined in <ref href="/us/usc/t29/s152/5">29 U.S.C. 152(5)</ref>) that represents motion picture project workers, and</content>
+</clause>
+<clause style="-uslm-lc:I14" class="indent3" id="id56326c28-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1/A/v"><num value="v">(v)</num><content> has treated substantially all motion picture project workers that such person pays as employees and not as independent contractors during such calendar year for purposes of determining employment taxes under this subtitle, and</content>
+</clause>
+</subparagraph>
+<subparagraph style="-uslm-lc:I13" class="indent2" id="id56326c29-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/1/B"><num value="B">(B)</num><content> at least 80 percent of all remuneration (to which section 3121 applies) paid by such person in such calendar year is paid to motion picture project workers.</content>
+</subparagraph>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326c2a-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/2"><num value="2" class="bold">(2)</num><heading class="bold"> Motion picture project worker</heading><content><p style="-uslm-lc:I12" class="indent1">The term “motion picture project worker” means any individual who provides services on motion picture projects for clients who are not affiliated with the motion picture project employer.</p>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326c2b-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/3"><num value="3" class="bold">(3)</num><heading class="bold"> Motion picture project</heading><content><p style="-uslm-lc:I12" class="indent1">The term “motion picture project” means the production of any property described in section 168(f)(3). Such term does not include property with respect to which records are required to be maintained under <ref href="/us/usc/t18/s2257">section 2257 of title 18</ref>, United States Code.</p>
+</content>
+</paragraph>
+<paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id56326c2c-efb1-11f0-81a7-eb72860d333c" identifier="/us/usc/t26/s3512/b/4"><num value="4" class="bold">(4)</num><heading class="bold"> Affiliate; affiliated</heading><content><p style="-uslm-lc:I12" class="indent1">A person shall be treated as an affiliate of, or affiliated with, another person if such persons are treated as a single employer under subsection (b) or (c) of section 414.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit id="id56326c2d-efb1-11f0-81a7-eb72860d333c">(Added <ref href="/us/pl/114/113/dQ/tIII/s346/a">Pub. L. 114–113, div. Q, title III, § 346(a)</ref>, <date date="2015-12-18">Dec. 18, 2015</date>, <ref href="/us/stat/129/3115">129 Stat. 3115</ref>.)</sourceCredit>
+<notes type="uscNote" id="id56326c2e-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id56326c2f-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I75" topic="referencesInText" id="id56326c30-efb1-11f0-81a7-eb72860d333c">
+<heading class="centered smallCaps">References in Text</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/usc/t29/s152">29 U.S.C. 152</ref>, referred to in subsec. (b)(1)(A)(iv), is section 2 of the National Labor Relations Act, <ref href="/us/act/1935-07-05/ch372">act July 5, 1935, ch. 372</ref>, <ref href="/us/stat/49/450">49 Stat. 450</ref>, which is classified to <ref href="/us/usc/t29/s152">section 152 of Title 29</ref>, Labor.</p>
+</note>
+<note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id56326c31-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Statutory Notes and Related Subsidiaries</b></heading></note>
+<note style="-uslm-lc:I74" topic="effectiveDate" id="id56326c32-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Effective Date</heading><p><ref href="/us/pl/114/113/dQ/tIII/s346/c">Pub. L. 114–113, div. Q, title III, § 346(c)</ref>, <date date="2015-12-18">Dec. 18, 2015</date>, <ref href="/us/stat/129/3116">129 Stat. 3116</ref>, provided that: <quotedContent origin="/us/pl/114/113/dQ/tIII/s346/c">“The amendments made by this section [enacting this section] shall apply to remuneration paid after <date date="2015-12-31">December 31, 2015</date>.”</quotedContent>
+</p>
+</note>
+<note style="-uslm-lc:I74" topic="miscellaneous" id="id56326c33-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Construction</heading><p><ref href="/us/pl/114/113/dQ/tIII/s346/d">Pub. L. 114–113, div. Q, title III, § 346(d)</ref>, <date date="2015-12-18">Dec. 18, 2015</date>, <ref href="/us/stat/129/3116">129 Stat. 3116</ref>, provided that: <quotedContent origin="/us/pl/114/113/dQ/tIII/s346/d">“Nothing in the amendments made by this section [enacting this section] shall be construed to create any inference on the law before the date of the enactment of this Act [<date date="2015-12-18">Dec. 18, 2015</date>].”</quotedContent>
+</p>
+</note>
+</notes>
+</section>
+</chapter>

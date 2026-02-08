@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle-info xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t26/stA">
+<num xmlns="http://xml.house.gov/schemas/uslm/1.0" value="A">Subtitle A—</num>
+<heading xmlns="http://xml.house.gov/schemas/uslm/1.0">Income Taxes</heading>
+
+<toc xmlns="http://xml.house.gov/schemas/uslm/1.0" role="twoColumnTOC" id="id527d527e-efb1-11f0-81a7-eb72860d333c">
+<layout>
+<header style="-uslm-lc:I70" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chapter</column>
+</header>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/stA/ch1">1.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Normal taxes and surtaxes.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/stA/ch2">2.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Tax on self-employment income.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/stA/ch2A">2A.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Unearned income Medicare contribution.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/stA/ch3">3.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Withholding of tax on nonresident aliens and foreign corporations.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/stA/ch4">4.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Taxes to enforce reporting on certain foreign accounts.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">[<ref href="/us/usc/t26/stA/ch5">5.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Repealed.]</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft"><ref href="/us/usc/t26/stA/ch6">6.</ref></column><column style="-uslm-lc:I46" class="twoColumnRight">Consolidated returns.</column>
+</tocItem>
+</layout>
+</toc>
+
+<notes xmlns="http://xml.house.gov/schemas/uslm/1.0" type="uscNote" id="id527d527f-efb1-11f0-81a7-eb72860d333c">
+<note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id527d5280-efb1-11f0-81a7-eb72860d333c"><heading class="centered"><b>Editorial Notes</b></heading></note>
+<note style="-uslm-lc:I74" topic="amendments" id="id527d5281-efb1-11f0-81a7-eb72860d333c"><heading class="centered smallCaps">Amendments</heading><p style="-uslm-lc:I21" class="indent0">2010—<ref href="/us/pl/111/152/tI/s1402/a/3">Pub. L. 111–152, title I, § 1402(a)(3)</ref>, <date date="2010-03-30">Mar. 30, 2010</date>, <ref href="/us/stat/124/1062">124 Stat. 1062</ref>, which directed amendment of the “table of chapters for subtitle A of chapter 1 of the Internal Revenue Code of 1986” by adding item for chapter 2A, was executed by adding item for chapter 2A to the table of chapters for this subtitle to reflect the probable intent of Congress.</p>
+<p style="-uslm-lc:I21" class="indent0"><ref href="/us/pl/111/147/tV/s501/c/8">Pub. L. 111–147, title V, § 501(c)(8)</ref>, <date date="2010-03-18">Mar. 18, 2010</date>, <ref href="/us/stat/124/106">124 Stat. 106</ref>, which directed amendment of the “table of chapters of the Internal Revenue Code of 1986” by adding item for chapter 4 “at the end”, was executed by adding item for chapter 4 after item for chapter 3 in the table of chapters for this subtitle to reflect the probable intent of Congress.</p>
+<p style="-uslm-lc:I21" class="indent0">1997—<ref href="/us/pl/105/34/tXI/s1131/c/4">Pub. L. 105–34, title XI, § 1131(c)(4)</ref>, <date date="1997-08-05">Aug. 5, 1997</date>, <ref href="/us/stat/111/980">111 Stat. 980</ref>, struck out item for chapter 5 “Tax on transfers to avoid income tax”.</p>
+<p style="-uslm-lc:I21" class="indent0">1990—<ref href="/us/pl/101/508/tXI/s11801/b/11">Pub. L. 101–508, title XI, § 11801(b)(11)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref href="/us/stat/104/1388-522">104 Stat. 1388–522</ref>, struck out item for chapter 4 “Rules applicable to recovery of excessive profits on government contracts”.</p>
+<p style="-uslm-lc:I21" class="indent0">1984—<ref href="/us/pl/98/369/dA/tIV/s474/r/29/D">Pub. L. 98–369, div. A, title IV, § 474(r)(29)(D)</ref>, <date date="1984-07-18">July 18, 1984</date>, <ref href="/us/stat/98/844">98 Stat. 844</ref>, struck out “and tax-free covenant bonds” at end of item for chapter 3.</p>
+</note>
+</notes>
+
+</subtitle-info>
